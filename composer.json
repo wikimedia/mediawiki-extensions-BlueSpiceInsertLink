@@ -1,0 +1,13 @@
+{
+	"name": "mediawiki/blue-spice-insert-link",
+	"type": "mediawiki-extension",
+	"description": "Dialog box to enter a link",
+	"license": "GPL-3.0",
+	"require": {
+		"composer/installers": "~1.0"
+	}
+	"autoload": {
+		"psr-4": {
+		}
+	}
+}

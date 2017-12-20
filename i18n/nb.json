@@ -7,6 +7,7 @@
 	"bs-insertlink-desc": "Dialogboks for å skrive inn ei lenke",
 	"prefs-insertlink": "Sett inn lenke",
 	"bs-insertlink": "Sett inn lenke",
+	"bs-insertlink-pref-enable-java": "Slå på Java-miniprogram",
 	"bs-insertlink-button-title": "Sett inn/rediger lenke",
 	"bs-insertlink-dialog-title": "Sett inn lenke",
 	"bs-insertlink-tab-wiki-page": "Wikiside",
@@ -20,5 +21,7 @@
 	"bs-insertlink-label-file": "Fil",
 	"bs-insertlink-label-searchfile": "Søk …",
 	"bs-insertlink-select-a-page": "Velg mål …",
-	"bs-insertlink-select-a-namespace": "(Sider)"
+	"bs-insertlink-select-a-namespace": "(Sider)",
+	"bs-insertlink-empty-field-text": "For å sette inn ei lenke må du oppgi et mål.",
+	"bs-insertlink-no-applet": "Miniprogrammet kunne ikke lastes. Sjekk Java-installasjonen din."
 }

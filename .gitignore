@@ -2,7 +2,9 @@
 *.kate-swp
 *.swp
 node_modules/**
-vendor/composer/**
+vendor/**
+!vendor/src/**
+!vendor/bsFileLinkChooser.jar
 
 composer.lock
 composer.phar

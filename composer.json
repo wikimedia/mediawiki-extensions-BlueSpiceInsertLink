@@ -2,7 +2,7 @@
 	"name": "mediawiki/blue-spice-insert-link",
 	"type": "mediawiki-extension",
 	"description": "Dialog box to enter a link",
-	"license": "GPL-3.0",
+	"license": "GPL-3.0-only",
 	"require": {
 		"composer/installers": "~1.0"
 	},

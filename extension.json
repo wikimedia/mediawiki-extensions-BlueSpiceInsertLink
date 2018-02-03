@@ -59,7 +59,6 @@
 		},
 		"ext.bluespice.insertlink.styles": {
 			"styles": "bluespice.insertLink.css",
-			"position": "top",
 			"targets": [ "desktop", "mobile" ]
 		}
 	},

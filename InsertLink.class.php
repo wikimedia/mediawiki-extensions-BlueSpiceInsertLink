@@ -41,14 +41,10 @@ class InsertLink extends BsExtensionMW {
 	 * Initialise the InsertLink extension
 	 */
 	protected function initExt() {
-		wfProfileIn('BS::InsertLink::initExt');
-
 		$this->setHook( 'BSExtendedEditBarBeforeEditToolbar' );
 		$this->setHook( 'VisualEditorConfig' );
 
 		BsConfig::registerVar( 'MW::InsertLink::EnableJava', false, BsConfig::LEVEL_USER | BsConfig::TYPE_BOOL, 'bs-insertlink-pref-enable-java', 'toggle' );
-
-		wfProfileOut('BS::InsertLink::initExt');
 	}
 
 	/**

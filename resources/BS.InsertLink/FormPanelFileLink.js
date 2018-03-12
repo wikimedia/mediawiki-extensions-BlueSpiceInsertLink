@@ -13,7 +13,7 @@
 Ext.define( 'BS.InsertLink.FormPanelFileLink', {
 	extend: 'BS.InsertLink.FormPanelBase',
 	protocols: [ 'file:///' ],
-	bIsJavaEnabled: mw.config.get('bsInsertLinkEnableJava'),
+	bIsJavaEnabled: mw.user.options.get( 'bs-insertlink-pref-enablejava' ),
 	beforeInitComponent: function() {
 		this.setTitle( mw.message('bs-insertlink-tab-ext-file').plain() );
 

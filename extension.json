@@ -10,10 +10,14 @@
 	],
 	"descriptionmsg": "bs-insertlink-desc",
 	"type": "bluespice",
-	"bsgExtensions": {
-		"BlueSpiceInsertLink": {
-			"className": "InsertLink",
-			"extPath": "/BlueSpiceInsertLink"
+	"attributes": {
+		"BlueSpiceFoundation": {
+			"Extensions": {
+				"BlueSpiceInsertLink": {
+					"className": "InsertLink",
+					"extPath": "/BlueSpiceInsertLink"
+				}
+			}
 		}
 	},
 	"MessagesDirs": {
@@ -23,6 +27,9 @@
 	},
 	"ExtensionMessagesFiles": {
 		"InsertLinkAlias": "InsertLink.alias.php"
+	},
+	"AutoloadNamespaces": {
+		"BlueSpice\\InsertLink\\" : "src/"
 	},
 	"AutoloadClasses": {
 		"InsertLink": "InsertLink.class.php",
@@ -66,6 +73,12 @@
 		"localBasePath": "resources",
 		"remoteExtPath": "BlueSpiceInsertLink/resources"
 	},
-	"manifest_version": 1,
+	"DefaultUserOptions": {
+		"bs-insertlink-pref-enablejava": false
+	},
+	"Hooks":{
+		"GetPreferences": "\\BlueSpice\\InsertLink\\Hook\\GetPreferences\\EnableJava::callback"
+	},
+	"manifest_version": 2,
 	"load_composer_autoloader": true
 }

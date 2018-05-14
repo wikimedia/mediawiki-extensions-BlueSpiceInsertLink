@@ -7,6 +7,7 @@
 	"bs-insertlink-desc": "Κουτί διαλόγου για να πληκτρολογήσετε ένα σύνδεσμο",
 	"prefs-insertlink": "Εισαγωγή συνδέσμου",
 	"bs-insertlink": "Εισαγωγή συνδέσμου",
+	"bs-insertlink-pref-enable-java": "Ενεργοποίηση της μικροεφαρμογής Java",
 	"bs-insertlink-button-title": "Εισαγωγή/επεξεργασία συνδέσμου",
 	"bs-insertlink-dialog-title": "Εισαγωγή συνδέσμου",
 	"bs-insertlink-tab-wiki-page": "Σελίδα βίκι",

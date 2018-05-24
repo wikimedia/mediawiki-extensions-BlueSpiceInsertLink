@@ -106,12 +106,8 @@ Ext.define( 'BS.InsertLink.FormPanelExternalLink', {
 		var desc = '';
 		if( title != '' ) {
 			desc = ' '+title;
-		} else {
-			if ( this.origLabel === '' ) {
-				title = '[1]';
-			} else {
-				title = this.origLabel;
-			}
+		} else if( this.origLabel != '' ) {
+			title = this.origLabel;
 		}
 
 		var href = '';
@@ -120,7 +116,11 @@ Ext.define( 'BS.InsertLink.FormPanelExternalLink', {
 			target = this.tfTargetUrl.getValue();
 		}
 
-		target = target.replace( / /g, '%20' );
+		target = encodeURI( target );
+
+		if( title == '' ) {
+			title = target;
+		}
 
 		return {
 			title: title,

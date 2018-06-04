@@ -17,7 +17,7 @@ class SpecialInsertLinkFileChooserJNLP extends UnlistedSpecialPage {
 	</security>
 	<resources>
 		<j2se version="1.6+"/>
-		<jar href="%s/extensions/BlueSpiceExtensions/InsertLink/vendor/bsFileLinkChooser.jar" main="true"/>
+		<jar href="%s/extensions/BlueSpiceInsertLink/vendor/bsFileLinkChooser.jar" main="true"/>
 	</resources>
 	<application-desc main-class="bsFileLinkChooser.JWSFileChooser"/>
 </jnlp>

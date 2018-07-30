@@ -24,6 +24,11 @@
 					"extPath": "/BlueSpiceInsertLink"
 				}
 			}
+		},
+		"BlueSpiceVisualEditorConnector": {
+			"PluginModules": [
+				"ext.bluespice.insertlink.visualEditorPlugin"
+			]
 		}
 	},
 	"MessagesDirs": {
@@ -73,6 +78,15 @@
 		"ext.bluespice.insertlink.styles": {
 			"styles": "bluespice.insertLink.css",
 			"targets": [ "desktop", "mobile" ]
+		},
+		"ext.bluespice.insertlink.visualEditorPlugin": {
+			"scripts": [
+				"bluespice.insertlink.visualEditorPlugin.js",
+				"bs.insertlink.ve/ui/MWLocalFileSystemLinkAnnotationWidget.js"
+			],
+			"messages": [
+				"bs-insertlink-tab-ext-file"
+			]
 		}
 	},
 	"ResourceFileModulePaths": {

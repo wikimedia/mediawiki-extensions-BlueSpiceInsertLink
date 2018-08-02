@@ -84,6 +84,9 @@
 				"bluespice.insertlink.visualEditorPlugin.js",
 				"bs.insertlink.ve/ui/MWLocalFileSystemLinkAnnotationWidget.js"
 			],
+			"dependencies": [
+				"ext.bluespice.visualEditorConnector"
+			],
 			"messages": [
 				"bs-insertlink-tab-ext-file"
 			]

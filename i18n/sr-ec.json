@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Сербијана"
+			"Сербијана",
+			"BadDog"
 		]
 	},
-	"prefs-insertlink": "Убаци везу",
+	"prefs-insertlink": "Уметни везу",
 	"bs-insertlink-label-mail": "Имејл адреса"
 }

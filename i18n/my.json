@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ninjastrikers"
+			"Ninjastrikers",
+			"Dr Lotus Black"
 		]
 	},
 	"bs-insertlink-label-page": "စာမျက်နှာ",
+	"bs-insertlink-label-description": "ဖော်ပြချက်",
 	"bs-insertlink-label-file": "ဖိုင်",
 	"bs-insertlink-label-searchfile": "ရှာဖွေရန် ...",
 	"bs-insertlink-select-a-namespace": "(စာမျက်နှာများ)"

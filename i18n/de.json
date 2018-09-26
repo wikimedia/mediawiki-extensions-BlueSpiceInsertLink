@@ -5,7 +5,8 @@
 			"Stephan Muggli <muggli@hallowelt.biz>",
 			"Metalhead64",
 			"Umherirrender",
-			"Mglaser"
+			"Mglaser",
+			"Hwboehm"
 		]
 	},
 	"bs-insertlink-desc": "Über ein Dialogfeld werden Links, z.B. zu bestehenden Seiten, eingebunden",
@@ -14,7 +15,7 @@
 	"bs-insertlink-pref-enable-java": "Java-Applet aktivieren",
 	"bs-insertlink-button-title": "Link einfügen / bearbeiten",
 	"bs-insertlink-dialog-title": "Link einfügen",
-	"bs-insertlink-tab-wiki-page": "Wiki-Seite",
+	"bs-insertlink-tab-wiki-page": "Seite",
 	"bs-insertlink-tab-ext-link": "Externer Link",
 	"bs-insertlink-tab-email": "E-Mail-Link",
 	"bs-insertlink-tab-ext-file": "Link auf Datei",
@@ -27,5 +28,5 @@
 	"bs-insertlink-select-a-page": "Ziel wählen …",
 	"bs-insertlink-select-a-namespace": "(Seiten)",
 	"bs-insertlink-empty-field-text": "Um einen Link einzufügen muss ein Ziel angegeben werden.",
-	"bs-insertlink-no-applet": "Das Applet konnte nicht geladen werden. Bitte überprüfe deine Java-Installation."
+	"bs-insertlink-no-applet": "Das Applet konnte nicht geladen werden. Bitte überprüfen Sie Ihre Java-Installation."
 }

@@ -13,14 +13,14 @@
 	"requires": {
 		"MediaWiki": ">= 1.31.0",
 		"extensions": {
-			"BlueSpiceFoundation": "*"
+			"BlueSpiceFoundation": ">= 3.0.0"
 		}
 	},
 	"attributes": {
 		"BlueSpiceFoundation": {
 			"Extensions": {
 				"BlueSpiceInsertLink": {
-					"className": "InsertLink",
+					"className": "\\BlueSpice\\InsertLink\\Extension",
 					"extPath": "/BlueSpiceInsertLink"
 				}
 			}
@@ -37,13 +37,12 @@
 		]
 	},
 	"ExtensionMessagesFiles": {
-		"InsertLinkAlias": "InsertLink.alias.php"
+		"InsertLinkAlias": "languages/InsertLink.alias.php"
 	},
 	"AutoloadNamespaces": {
 		"BlueSpice\\InsertLink\\" : "src/"
 	},
 	"AutoloadClasses": {
-		"InsertLink": "InsertLink.class.php",
 		"SpecialInsertLinkFileChooserJNLP": "includes/specials/SpecialInsertLinkFileChooserJNLP.php"
 	},
 	"SpecialPages": {

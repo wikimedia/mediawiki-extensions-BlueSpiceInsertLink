@@ -41,7 +41,6 @@ class InsertLink extends BsExtensionMW {
 	 * Initialise the InsertLink extension
 	 */
 	protected function initExt() {
-		$this->setHook( 'BSExtendedEditBarBeforeEditToolbar' );
 		$this->setHook( 'VisualEditorConfig' );
 	}
 
@@ -63,15 +62,4 @@ class InsertLink extends BsExtensionMW {
 		return true;
 	}
 
-	public function onBSExtendedEditBarBeforeEditToolbar( &$aRows, &$aButtonCfgs ) {
-		$this->getOutput()->addModuleStyles('ext.bluespice.insertlink.styles');
-		$this->getOutput()->addModules('ext.bluespice.insertlink');
-
-		$aRows[0]['dialogs'][40] = 'bs-editbutton-insertlink';
-
-		$aButtonCfgs['bs-editbutton-insertlink'] = array(
-			'tip' => wfMessage( 'bs-insertlink' )->plain()
-		);
-		return true;
-	}
 }

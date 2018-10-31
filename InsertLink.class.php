@@ -41,25 +41,7 @@ class InsertLink extends BsExtensionMW {
 	 * Initialise the InsertLink extension
 	 */
 	protected function initExt() {
-		$this->setHook( 'VisualEditorConfig' );
-	}
 
-	/**
-	 * Hook Handler for VisualEditorConfig Hook
-	 * @param Array $aConfigStandard reference
-	 * @param Array $aConfigOverwrite reference
-	 * @param Array &$aLoaderUsingDeps reference
-	 * @return boolean always true to keep hook alife
-	 */
-	public function onVisualEditorConfig( &$aConfigStandard, &$aConfigOverwrite, &$aLoaderUsingDeps ) {
-		$aLoaderUsingDeps[] = 'ext.bluespice.insertlink';
-
-		$iIndexStandard = array_search( 'bssignature',$aConfigStandard["toolbar1"] );
-		array_splice( $aConfigStandard["toolbar1"], $iIndexStandard + 1, 0, "bslink" );
-
-		// Add context menu entry
-		$aConfigStandard["contextmenu"] = str_replace('bsContextMenuMarker', 'bsContextMenuMarker bsContextLink bsContextUnlink', $aConfigStandard["contextmenu"] );
-		return true;
 	}
 
 }

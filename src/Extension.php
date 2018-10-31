@@ -32,16 +32,10 @@
  * @filesource
  */
 
+namespace BlueSpice\InsertLink;
+
 /**
  * Class for link assistent
  * @package BlueSpiceLink
  */
-class InsertLink extends BsExtensionMW {
-	/**
-	 * Initialise the InsertLink extension
-	 */
-	protected function initExt() {
-
-	}
-
-}
+class Extension extends \BlueSpice\Extension {}

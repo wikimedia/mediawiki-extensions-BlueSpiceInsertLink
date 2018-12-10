@@ -71,12 +71,12 @@
 			],
 			"dependencies": [
 				"ext.bluespice.extjs"
-			],
-			"targets": [ "desktop", "mobile" ]
+			]
 		},
 		"ext.bluespice.insertlink.styles": {
-			"styles": "bluespice.insertLink.css",
-			"targets": [ "desktop", "mobile" ]
+			"styles": [
+				"bluespice.insertLink.css"
+			]
 		},
 		"ext.bluespice.insertlink.visualEditorPlugin": {
 			"scripts": [

@@ -20,8 +20,8 @@
 	"bs-insertlink-label-mail": "Email address",
 	"bs-insertlink-label-description": "Description",
 	"bs-insertlink-label-file": "File",
-	"bs-insertlink-label-searchfile": "Search ...",
-	"bs-insertlink-select-a-page": "Choose target ...",
+	"bs-insertlink-label-searchfile": "Search...",
+	"bs-insertlink-select-a-page": "Choose target...",
 	"bs-insertlink-select-a-namespace": "(Pages)",
 	"bs-insertlink-empty-field-text": "To insert a link you need to state a destination.",
 	"bs-insertlink-no-applet": "The applet could not be loaded. Please check your Java installation."

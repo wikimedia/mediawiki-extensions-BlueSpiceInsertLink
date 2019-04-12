@@ -28,7 +28,7 @@
  * @author     Tobias Weichart <weichart@hallowelt.com>
  * @package    BlueSpiceInsertLink
  * @copyright  Copyright (C) 2016 Hallo Welt! GmbH, All rights reserved.
- * @license    http://www.gnu.org/copyleft/gpl.html GNU Public License v3
+ * @license    http://www.gnu.org/copyleft/gpl.html GPL-3.0-only
  * @filesource
  */
 
@@ -38,4 +38,5 @@ namespace BlueSpice\InsertLink;
  * Class for link assistent
  * @package BlueSpiceLink
  */
-class Extension extends \BlueSpice\Extension {}
+class Extension extends \BlueSpice\Extension {
+}

@@ -6,11 +6,11 @@ use BlueSpice\Hook\GetPreferences;
 
 class EnableJava extends GetPreferences {
 	protected function doProcess() {
-		$this->preferences['bs-insertlink-pref-enablejava'] = array(
+		$this->preferences['bs-insertlink-pref-enablejava'] = [
 			'type' => 'check',
 			'label-message' => 'bs-insertlink-pref-enable-java',
 			'section' => 'bluespice/insertlink',
-		);
+		];
 		return true;
 	}
 }

@@ -7,9 +7,9 @@
  */
 // @codingStandardsIgnoreFile
 
-$specialPageAliases = array();
+$specialPageAliases = [];
 
 /** English (English) */
-$specialPageAliases['en'] = array(
-	'InsertLinkFileChooserJNLP' => array( 'InsertLinkFileChooserJNLP' ),
-);
+$specialPageAliases['en'] = [
+	'InsertLinkFileChooserJNLP' => [ 'InsertLinkFileChooserJNLP' ],
+];

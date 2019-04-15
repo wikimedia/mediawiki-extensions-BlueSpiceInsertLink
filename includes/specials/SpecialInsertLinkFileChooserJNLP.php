@@ -38,7 +38,7 @@ THERE;
 
 		echo sprintf(
 			$this->sJNPLTemplate,
-			$wgServer.$wgScriptPath
+			$wgServer . $wgScriptPath
 		);
 	}
 

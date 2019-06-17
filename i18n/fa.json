@@ -3,10 +3,12 @@
 		"authors": [
 			"Alirezaaa",
 			"Reza1615",
-			"Mjbmr"
+			"Mjbmr",
+			"FarsiNevis"
 		]
 	},
 	"bs-insertlink-desc": "پنجره محاوره‌ای برای واردکردن پیوند",
+	"prefs-insertlink": "درج پیوند",
 	"bs-insertlink": "درج پیوند",
 	"bs-insertlink-button-title": "درج/ویرایش پیوند",
 	"bs-insertlink-dialog-title": "درج پیوند",

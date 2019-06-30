@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"SGTTechnologicBunny",
-			"Guycn2"
+			"Guycn2",
+			"YaronSh"
 		]
 	},
 	"bs-insertlink-desc": "תיבת דו־שיח להזנת קישור",
@@ -13,7 +14,7 @@
 	"bs-insertlink-dialog-title": "הוספת קישור",
 	"bs-insertlink-tab-wiki-page": "דף ויקי",
 	"bs-insertlink-tab-ext-link": "קישור חיצוני",
-	"bs-insertlink-tab-email": "קישור דוא\"ל",
+	"bs-insertlink-tab-email": "קישור דוא״ל",
 	"bs-insertlink-tab-ext-file": "קשר לקובץ",
 	"bs-insertlink-label-page": "דף",
 	"bs-insertlink-label-link": "קישור",

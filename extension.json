@@ -22,7 +22,11 @@
 			"Extensions": {
 				"BlueSpiceInsertLink": {
 					"className": "\\BlueSpice\\InsertLink\\Extension",
-					"extPath": "/BlueSpiceInsertLink"
+					"extPath": "/BlueSpiceInsertLink",
+					"configDefinitions": {
+						"InsertLinkAllowUnMapped": "\\BlueSpice\\InsertLink\\ConfigDefinition\\AllowUnMapped::getInstance",
+						"InsertLinkFilesystemMap": "\\BlueSpice\\InsertLink\\ConfigDefinition\\FilesystemMap::getInstance"
+					}
 				}
 			}
 		},
@@ -81,14 +85,20 @@
 		},
 		"ext.bluespice.insertlink.visualEditorPlugin": {
 			"scripts": [
+				"bs.insertlink.ve/ce/annotation/bs.insertlink.ce.ExternalFileLinkAnnotation.js",
+				"bs.insertlink.ve/dm/annotation/bs.insertlink.dm.ExternalFileLinkAnnotation.js",
+				"bs.insertlink.ve/ui/MWFileLinkAnnotationWidget.js",
 				"bluespice.insertlink.visualEditorPlugin.js",
-				"bs.insertlink.ve/ui/MWLocalFileSystemLinkAnnotationWidget.js"
+				"bs.insertlink.ve/widget/LocalFilePathInput.js"
 			],
 			"dependencies": [
+				"ext.bluespice.insertlink.styles",
 				"ext.bluespice.visualEditorConnector"
 			],
 			"messages": [
-				"bs-insertlink-tab-ext-file"
+				"bs-insertlink-tab-file",
+				"bs-insertlink-internal-file-link-button-label",
+				"bs-insertlink-external-file-switch-label"
 			]
 		}
 	},
@@ -96,10 +106,19 @@
 		"localBasePath": "resources",
 		"remoteExtPath": "BlueSpiceInsertLink/resources"
 	},
+	"Hooks": {
+		"BeforePageDisplay": "\\BlueSpice\\InsertLink\\Hook\\BeforePageDisplay\\AddConfigs::callback"
+	},
 	"config_prefix": "bsg",
 	"config": {
 		"InsertLinkEnableJava": {
 			"value": false
+		},
+		"InsertLinkFilesystemMap": {
+			"value": {}
+		},
+		"InsertLinkAllowUnMapped": {
+			"value": true
 		}
 	},
 	"manifest_version": 2,

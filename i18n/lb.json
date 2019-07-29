@@ -21,5 +21,6 @@
 	"bs-insertlink-label-file": "Fichier",
 	"bs-insertlink-label-searchfile": "Sichen...",
 	"bs-insertlink-select-a-page": "Zil eraussichen...",
-	"bs-insertlink-select-a-namespace": "(Säiten)"
+	"bs-insertlink-select-a-namespace": "(Säiten)",
+	"bs-insertlink-internal-file-link-button-label": "Fichier eraussichen"
 }

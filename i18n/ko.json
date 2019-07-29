@@ -24,5 +24,7 @@
 	"bs-insertlink-label-file": "파일",
 	"bs-insertlink-label-searchfile": "검색 ...",
 	"bs-insertlink-select-a-page": "대상 선택 ...",
-	"bs-insertlink-select-a-namespace": "(문서)"
+	"bs-insertlink-select-a-namespace": "(문서)",
+	"bs-insertlink-internal-file-link-button-label": "파일 선택",
+	"bs-insertlink-external-file-switch-label": "네트워크 공유 경로 (URI)"
 }

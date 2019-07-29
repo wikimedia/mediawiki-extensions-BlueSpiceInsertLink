@@ -30,5 +30,5 @@
 	"bs-insertlink-pref-filesystemmap": "المواقع المسموح بها للملفات الخارجية",
 	"bs-insertlink-pref-filesystemmap-fs-prefix": "بادئة نظام الملفات",
 	"bs-insertlink-pref-filesystemmap-web-prefix": "بادئة الوصول إلى الويب",
-	"bs-insertlink-pref-allowunmapped": "السماح بالروابط غير المعينة"
+	"bs-insertlink-pref-allowunmapped": "السماح بالوصلات غير المعينة"
 }

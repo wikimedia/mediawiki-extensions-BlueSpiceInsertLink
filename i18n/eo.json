@@ -24,5 +24,7 @@
 	"bs-insertlink-select-a-page": "Elekti celon ...",
 	"bs-insertlink-select-a-namespace": "(Paĝoj)",
 	"bs-insertlink-empty-field-text": "Por enmeti ligilon, vi devas aldoni celon.",
-	"bs-insertlink-no-applet": "La retprogramo ne povis funkcii. Bonvolu kontroli vian instalon de Java."
+	"bs-insertlink-no-applet": "La retprogramo ne povis funkcii. Bonvolu kontroli vian instalon de Java.",
+	"bs-insertlink-internal-file-link-button-label": "Elekti dosieron",
+	"bs-insertlink-pref-filesystemmap-fs-prefix": "Dosiersistema prefikso"
 }

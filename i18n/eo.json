@@ -26,5 +26,9 @@
 	"bs-insertlink-empty-field-text": "Por enmeti ligilon, vi devas aldoni celon.",
 	"bs-insertlink-no-applet": "La retprogramo ne povis funkcii. Bonvolu kontroli vian instalon de Java.",
 	"bs-insertlink-internal-file-link-button-label": "Elekti dosieron",
-	"bs-insertlink-pref-filesystemmap-fs-prefix": "Dosiersistema prefikso"
+	"bs-insertlink-external-file-switch-label": "Reta komuniga dosierindiko (retadreso)",
+	"bs-insertlink-pref-filesystemmap": "Permesataj lokoj de eksteraj dosieroj",
+	"bs-insertlink-pref-filesystemmap-fs-prefix": "Dosiersistema prefikso",
+	"bs-insertlink-pref-filesystemmap-web-prefix": "Rete atingebla prefikso",
+	"bs-insertlink-pref-allowunmapped": "Permesi nemapitajn ligilojn"
 }

@@ -31,6 +31,6 @@
 	"bs-insertlink-external-file-switch-label": "Chemin de partage sur le réseau (URI)",
 	"bs-insertlink-pref-filesystemmap": "Emplacements de fichiers externes autorisés",
 	"bs-insertlink-pref-filesystemmap-fs-prefix": "Préfixe des fichiers système",
-	"bs-insertlink-pref-filesystemmap-web-prefix": "Préfixe accessible d’Internet",
-	"bs-insertlink-pref-allowunmapped": "Autoriser les liens sans à une destination inexistante"
+	"bs-insertlink-pref-filesystemmap-web-prefix": "Préfixe internet accessible",
+	"bs-insertlink-pref-allowunmapped": "Autoriser les liens sans destination existante"
 }

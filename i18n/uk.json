@@ -23,5 +23,11 @@
 	"bs-insertlink-select-a-page": "Виберіть ціль...",
 	"bs-insertlink-select-a-namespace": "(Сторінки)",
 	"bs-insertlink-empty-field-text": "Щоб вставити посилання, ви повинні вказати кінцеве призначення.",
-	"bs-insertlink-no-applet": "Не вдалося завантажити аплет. Будь ласка, перевірте правильність встановлення Java."
+	"bs-insertlink-no-applet": "Не вдалося завантажити аплет. Будь ласка, перевірте правильність встановлення Java.",
+	"bs-insertlink-internal-file-link-button-label": "Виберіть файл",
+	"bs-insertlink-external-file-switch-label": "Мережевий шлях (URI)",
+	"bs-insertlink-pref-filesystemmap": "Дозволені розташування зовнішніх файлів",
+	"bs-insertlink-pref-filesystemmap-fs-prefix": "Префікс файлової системи",
+	"bs-insertlink-pref-filesystemmap-web-prefix": "Префікс веб-доступності",
+	"bs-insertlink-pref-allowunmapped": "Дозволити невизначені посилання"
 }

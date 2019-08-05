@@ -3,7 +3,8 @@
 		"authors": [
 			"Chrumps",
 			"Matik7",
-			"Py64"
+			"Py64",
+			"Railfail536"
 		]
 	},
 	"bs-insertlink-desc": "Okno dialogowe do wprowadzenia adresu",
@@ -23,5 +24,6 @@
 	"bs-insertlink-label-searchfile": "Szukaj ...",
 	"bs-insertlink-select-a-page": "Wybierz miejsce docelowe ...",
 	"bs-insertlink-select-a-namespace": "(Strony)",
-	"bs-insertlink-no-applet": "Aplet nie może zostać załadowany. Prosimy o sprawdzenia czy Java jest zainstalowana."
+	"bs-insertlink-no-applet": "Aplet nie może zostać załadowany. Prosimy o sprawdzenia czy Java jest zainstalowana.",
+	"bs-insertlink-internal-file-link-button-label": "Wybierz plik"
 }

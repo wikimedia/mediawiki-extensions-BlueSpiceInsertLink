@@ -64,8 +64,6 @@ bs.insertlink.widget.LocalFilePathInputWidget.prototype.setValue = function( val
 	return this;
 };
 
-
-
 bs.insertlink.widget.LocalFilePathInputWidget.prototype.convertToWebPath = function( value ) {
 	value = bs.insertlink.widget.LocalFilePathInputWidget.static.checkAndPrefix( value, true );
 	if ( !value ) {

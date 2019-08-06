@@ -82,7 +82,9 @@ bs.insertlink.ui.MWFileLinkAnnotationWidget.prototype.getInternalFilePicker = fu
 
 bs.insertlink.ui.MWFileLinkAnnotationWidget.prototype.onTypeToggle = function ( value ) {
 	this.isExternal = !!value;
+	this.setAnnotation( null );
 	if ( value ){
+		this.internalFilePicker.query.setValue( null );
 		this.internalFileLayout.$element.hide();
 		this.input.$element.show();
 	} else {
@@ -112,14 +114,33 @@ bs.insertlink.ui.MWFileLinkAnnotationWidget.static.getAnnotationFromText = funct
 };
 
 bs.insertlink.ui.MWFileLinkAnnotationWidget.prototype.setAnnotation = function ( annotation, fromText ) {
+	if ( !annotation ) {
+		this.internalFilePicker.query.setValue( null );
+	}
+
 	bs.insertlink.ui.MWFileLinkAnnotationWidget.parent.prototype.setAnnotation.call( this, annotation, fromText );
+
+	if ( !this.annotation )  {
+		return;
+	}
 	if ( this.annotation instanceof bs.insertlink.dm.ExternalFileLinkAnnotation ) {
 		this.typeSwitch.setValue( true );
+	}
+	if ( !fromText ) {
+		this.internalFilePicker.query.setValue( this.constructor.static.getTextFromAnnotation( this.annotation ) );
 	}
 
 	return this;
 };
 
 bs.insertlink.ui.MWFileLinkAnnotationWidget.static.getTextFromAnnotation = function ( annotation ) {
-	return annotation ? annotation.element.attributes.normalizedTitle : '';
+	if ( !annotation ) {
+		return '';
+	}
+	var type = annotation.name;
+	if ( type === 'link/internalFile' ) {
+		return annotation.element.attributes.normalizedTitle;
+	} else {
+		return annotation.element.attributes.href;
+	}
 };

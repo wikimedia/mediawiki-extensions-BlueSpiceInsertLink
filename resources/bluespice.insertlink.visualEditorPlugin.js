@@ -50,6 +50,9 @@ ve.ui.MWLinkAnnotationInspector.prototype.onLinkTypeIndexSet = function () {
 	}
 
 	this.annotationInput.getTextInputWidget().setValue( text ).focus();
+	if ( this.linkTypeIndex.getCurrentTabPanelName() === 'file' ) {
+		this.annotationInput.internalFilePicker.getQuery().setValue( text ).focus();
+	}
 	// Select entire link when switching, for ease of replacing entire contents.
 	// Most common case:
 	// 1. Inspector opened, internal-link shown with the selected-word prefilled

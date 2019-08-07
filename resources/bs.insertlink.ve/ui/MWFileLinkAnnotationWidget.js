@@ -82,7 +82,7 @@ bs.insertlink.ui.MWFileLinkAnnotationWidget.prototype.getInternalFilePicker = fu
 
 bs.insertlink.ui.MWFileLinkAnnotationWidget.prototype.onTypeToggle = function ( value ) {
 	this.isExternal = !!value;
-	this.setAnnotation( null );
+
 	if ( value ){
 		this.internalFilePicker.query.setValue( null );
 		this.internalFileLayout.$element.hide();
@@ -118,6 +118,7 @@ bs.insertlink.ui.MWFileLinkAnnotationWidget.prototype.setAnnotation = function (
 		this.internalFilePicker.query.setValue( null );
 	}
 
+	this.isExternal = annotation instanceof bs.insertlink.dm.ExternalFileLinkAnnotation;
 	bs.insertlink.ui.MWFileLinkAnnotationWidget.parent.prototype.setAnnotation.call( this, annotation, fromText );
 
 	if ( !this.annotation )  {

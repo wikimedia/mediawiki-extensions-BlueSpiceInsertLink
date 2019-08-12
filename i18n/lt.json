@@ -23,5 +23,6 @@
 	"bs-insertlink-label-searchfile": "Paieška ...",
 	"bs-insertlink-select-a-page": "Pasirinkti tikslą ...",
 	"bs-insertlink-select-a-namespace": "(Puslapiai)",
-	"bs-insertlink-empty-field-text": "Kad įterptumėte nuoroda jums reikia nurodyti tikslą."
+	"bs-insertlink-empty-field-text": "Kad įterptumėte nuoroda jums reikia nurodyti tikslą.",
+	"bs-insertlink-internal-file-link-button-label": "Pasirinkite failą"
 }

@@ -25,5 +25,6 @@
 	"bs-insertlink-select-a-page": "揀目標……",
 	"bs-insertlink-select-a-namespace": "（頁）",
 	"bs-insertlink-empty-field-text": "想插入一個連結嘅話，你需要作出描述。",
-	"bs-insertlink-no-applet": "載入唔到程式。請檢查下你個Java安裝情況。"
+	"bs-insertlink-no-applet": "載入唔到程式。請檢查下你個Java安裝情況。",
+	"bs-insertlink-tab-file": "連去檔案"
 }

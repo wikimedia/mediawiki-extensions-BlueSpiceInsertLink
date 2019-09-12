@@ -20,5 +20,12 @@
 	"bs-insertlink-label-file": "파일",
 	"bs-insertlink-label-searchfile": "검색 ...",
 	"bs-insertlink-select-a-page": "대상 선택 ...",
-	"bs-insertlink-select-a-namespace": "(문서)"
+	"bs-insertlink-select-a-namespace": "(문서)",
+	"bs-insertlink-desc": "링크 입력을 위한 대화 상자",
+	"bs-insertlink": "링크 넣기",
+	"bs-insertlink-button-title": "링크 넣기/편집",
+	"bs-insertlink-dialog-title": "링크 넣기",
+	"bs-insertlink-tab-file": "파일의 링크",
+	"bs-insertlink-internal-file-link-button-label": "파일 선택",
+	"bs-insertlink-external-file-switch-label": "네트워크 공유 경로 (URI)"
 }

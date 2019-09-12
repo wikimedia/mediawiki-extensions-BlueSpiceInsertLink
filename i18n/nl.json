@@ -26,5 +26,6 @@
 	"bs-insertlink-select-a-page": "Kies doel...",
 	"bs-insertlink-select-a-namespace": "(Pagina's)",
 	"bs-insertlink-empty-field-text": "Voor het invoegen van een koppeling moet u een richting aangeven.",
-	"bs-insertlink-no-applet": "De applet kan niet worden geladen. Controleer uw Java-installatie."
+	"bs-insertlink-no-applet": "De applet kan niet worden geladen. Controleer uw Java-installatie.",
+	"bs-insertlink-tab-file": "Koppeling naar bestand"
 }

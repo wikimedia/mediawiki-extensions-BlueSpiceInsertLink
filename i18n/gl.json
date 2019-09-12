@@ -23,5 +23,6 @@
 	"bs-insertlink-select-a-page": "Escoller destino…",
 	"bs-insertlink-select-a-namespace": "(Páxinas)",
 	"bs-insertlink-empty-field-text": "Para inserir unha ligazón é necesario definir o destino.",
-	"bs-insertlink-no-applet": "O applet non pode cargarse. Revise a súa instalación Java."
+	"bs-insertlink-no-applet": "O applet non pode cargarse. Revise a súa instalación Java.",
+	"bs-insertlink-tab-file": "Ligazón a ficheiro"
 }

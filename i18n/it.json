@@ -25,5 +25,6 @@
 	"bs-insertlink-select-a-page": "Scegli la destinazione ...",
 	"bs-insertlink-select-a-namespace": "(Pagine)",
 	"bs-insertlink-empty-field-text": "Per inserire un link è necessario indicare una destinazione.",
-	"bs-insertlink-no-applet": "L'applet non può essere caricato. Si prega di controllare l'installazione di Java."
+	"bs-insertlink-no-applet": "L'applet non può essere caricato. Si prega di controllare l'installazione di Java.",
+	"bs-insertlink-tab-file": "Collegamento al file"
 }

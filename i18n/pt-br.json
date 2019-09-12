@@ -24,5 +24,12 @@
 	"bs-insertlink-select-a-page": "Escolha o alvo ...",
 	"bs-insertlink-select-a-namespace": "(Páginas)",
 	"bs-insertlink-empty-field-text": "Para inserir um link, deve definir um destinatário.",
-	"bs-insertlink-no-applet": "Não foi possível carregar a <i>applet</i>. Verifique a sua instalação do Java, por favor."
+	"bs-insertlink-no-applet": "Não foi possível carregar a <i>applet</i>. Verifique a sua instalação do Java, por favor.",
+	"bs-insertlink-tab-file": "Link para o arquivo",
+	"bs-insertlink-internal-file-link-button-label": "Escolha o arquivo",
+	"bs-insertlink-external-file-switch-label": "Caminho de compartilhamento de rede (URI)",
+	"bs-insertlink-pref-filesystemmap": "Locais permitidos para arquivos externos",
+	"bs-insertlink-pref-filesystemmap-fs-prefix": "Prefixo do sistema de arquivos",
+	"bs-insertlink-pref-filesystemmap-web-prefix": "Prefixo acessível pela Web",
+	"bs-insertlink-pref-allowunmapped": "Permitir links não mapeados"
 }

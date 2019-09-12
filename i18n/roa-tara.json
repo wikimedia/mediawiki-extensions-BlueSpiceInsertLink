@@ -23,5 +23,12 @@
 	"bs-insertlink-select-a-page": "Scacchie 'a destinazione...",
 	"bs-insertlink-select-a-namespace": "(Pàggene)",
 	"bs-insertlink-empty-field-text": "Pe 'nzerì 'nu collegamende jè necessarie indicà 'na destinazione.",
-	"bs-insertlink-no-applet": "L'applet non ge pò essere carecate. Pe piacere condrolle l'installazzione de Java."
+	"bs-insertlink-no-applet": "L'applet non ge pò essere carecate. Pe piacere condrolle l'installazzione de Java.",
+	"bs-insertlink-tab-file": "Collegamende a 'u file",
+	"bs-insertlink-internal-file-link-button-label": "Pigghie 'u file",
+	"bs-insertlink-external-file-switch-label": "Percorse de rezze condivise (URI)",
+	"bs-insertlink-pref-filesystemmap": "Dèje le posiziune de le file de fore",
+	"bs-insertlink-pref-filesystemmap-fs-prefix": "Prefisse d'u filesystem",
+	"bs-insertlink-pref-filesystemmap-web-prefix": "Prefisse de accessibbeletà a 'u web",
+	"bs-insertlink-pref-allowunmapped": "Dèje le collegaminde non mappate"
 }

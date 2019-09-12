@@ -23,5 +23,6 @@
 	"bs-insertlink-select-a-page": "Επιλογή στόχου...",
 	"bs-insertlink-select-a-namespace": "(Σελίδες)",
 	"bs-insertlink-empty-field-text": "Για να εισαγάγετε ένα σύνδεσμο πρέπει να ορίσετε προορισμό.",
-	"bs-insertlink-no-applet": "Η εφαρμογή δεν μπόρεσε να φορτωθεί. Παρακαλούμε ελέγξτε την εγκατάσταση Java σας."
+	"bs-insertlink-no-applet": "Η εφαρμογή δεν μπόρεσε να φορτωθεί. Παρακαλούμε ελέγξτε την εγκατάσταση Java σας.",
+	"bs-insertlink-tab-file": "Σύνδεσμος σε αρχείο"
 }

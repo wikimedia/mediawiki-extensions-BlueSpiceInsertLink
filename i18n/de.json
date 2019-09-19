@@ -28,5 +28,11 @@
 	"bs-insertlink-select-a-page": "Ziel wählen …",
 	"bs-insertlink-select-a-namespace": "(Seiten)",
 	"bs-insertlink-empty-field-text": "Um einen Link einzufügen muss ein Ziel angegeben werden.",
-	"bs-insertlink-no-applet": "Das Applet konnte nicht geladen werden. Bitte überprüfe die Java-Installation."
+	"bs-insertlink-no-applet": "Das Applet konnte nicht geladen werden. Bitte überprüfe die Java-Installation.",
+	"bs-insertlink-internal-file-link-button-label": "Datei auswählen",
+	"bs-insertlink-external-file-switch-label": "Netzwerkpfad (URI)",
+	"bs-insertlink-pref-filesystemmap": "Erlaubte Orte für externe Dateien",
+	"bs-insertlink-pref-filesystemmap-fs-prefix": "Dateisystempräfix",
+	"bs-insertlink-pref-filesystemmap-web-prefix": "Präfix für den Webzugriff",
+	"bs-insertlink-pref-allowunmapped": "Erlaube nicht zugeordnete Links"
 }

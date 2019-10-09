@@ -17,3 +17,11 @@ i.mce-i-link:before,
 i.mce-i-unlink:before{
 	content: "";
 }
+
+.bs-insertlink-internal-link-inspector-layout .mw-widget-titleWidget {
+	width: 260px
+}
+
+.bs-insertlink-internal-link-inspector-layout .oo-ui-actionFieldLayout-button {
+	vertical-align: top;
+}

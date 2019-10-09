@@ -4,5 +4,6 @@
 			"Pyscowicz"
 		]
 	},
-	"bs-insertlink-label-mail": "Sähköpostiosoite"
+	"bs-insertlink-label-mail": "Sähköpostiosoite",
+	"bs-insertlink-label-file": "Tiedosto"
 }

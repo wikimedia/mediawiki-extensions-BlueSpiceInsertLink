@@ -3,7 +3,8 @@
 		"authors": [
 			"Jopparn",
 			"Lokal Profil",
-			"WikiPhoenix"
+			"WikiPhoenix",
+			"Josve05a"
 		]
 	},
 	"bs-insertlink-desc": "Dialogruta för att ange en länk",
@@ -25,5 +26,7 @@
 	"bs-insertlink-select-a-page": "Välj mål ...",
 	"bs-insertlink-select-a-namespace": "(Sidor)",
 	"bs-insertlink-empty-field-text": "För att infoga en länk måste du ange en destination.",
-	"bs-insertlink-no-applet": "Applet kunde inte laddas. Vänligen kontrollera din Java-installation."
+	"bs-insertlink-no-applet": "Applet kunde inte laddas. Vänligen kontrollera din Java-installation.",
+	"bs-insertlink-tab-file": "Länk till fil",
+	"bs-insertlink-internal-file-link-button-label": "Välj fil"
 }

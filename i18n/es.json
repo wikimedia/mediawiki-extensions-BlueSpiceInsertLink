@@ -24,5 +24,9 @@
 	"bs-insertlink-select-a-page": "Elegir destino…",
 	"bs-insertlink-select-a-namespace": "(Páginas)",
 	"bs-insertlink-empty-field-text": "Para insertar un enlace es necesario definir el destino.",
-	"bs-insertlink-no-applet": "No se pudo cargar la miniaplicación. Comprueba la instalación de Java."
+	"bs-insertlink-no-applet": "No se pudo cargar la miniaplicación. Comprueba la instalación de Java.",
+	"bs-insertlink-tab-file": "Enlace a archivo",
+	"bs-insertlink-external-file-switch-label": "Ruta de compartición de red (URI)",
+	"bs-insertlink-pref-filesystemmap": "Ubicaciones permitidas para archivos externos",
+	"bs-insertlink-pref-filesystemmap-fs-prefix": "Prefijo de sistema de archivos"
 }

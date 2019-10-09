@@ -3,7 +3,8 @@
 		"authors": [
 			"Alirezaaa",
 			"Reza1615",
-			"Mjbmr"
+			"Mjbmr",
+			"FarsiNevis"
 		]
 	},
 	"bs-insertlink-desc": "پنجره محاوره‌ای برای واردکردن پیوند",
@@ -22,5 +23,7 @@
 	"bs-insertlink-label-searchfile": "جستجو ...",
 	"bs-insertlink-select-a-page": "انتخاب هدف ...",
 	"bs-insertlink-select-a-namespace": "(صفحات)",
-	"bs-insertlink-empty-field-text": "برای درج یک پیوند باید مقصدی تعیین کنید."
+	"bs-insertlink-empty-field-text": "برای درج یک پیوند باید مقصدی تعیین کنید.",
+	"prefs-insertlink": "درج پیوند",
+	"bs-insertlink-tab-file": "پیوند به پرونده"
 }

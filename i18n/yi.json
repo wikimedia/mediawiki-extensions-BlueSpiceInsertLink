@@ -15,5 +15,7 @@
 	"bs-insertlink-label-description": "באַשרײַבונג",
 	"bs-insertlink-label-file": "טעקע",
 	"bs-insertlink-label-searchfile": "זוכן…",
-	"bs-insertlink-select-a-namespace": "(בלעטער)"
+	"bs-insertlink-select-a-namespace": "(בלעטער)",
+	"prefs-insertlink": "אריינשטעלן לינק",
+	"bs-insertlink-button-title": "צולייגן/רעדאקטירן לינק"
 }

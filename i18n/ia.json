@@ -20,5 +20,6 @@
 	"bs-insertlink-label-searchfile": "Cercar…",
 	"bs-insertlink-select-a-page": "Selige destination…",
 	"bs-insertlink-select-a-namespace": "(Paginas)",
-	"bs-insertlink-empty-field-text": "Pro inserer un ligamine es necessari specificar un destination."
+	"bs-insertlink-empty-field-text": "Pro inserer un ligamine es necessari specificar un destination.",
+	"bs-insertlink-tab-file": "Ligamine a un file"
 }

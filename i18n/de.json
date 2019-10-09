@@ -28,5 +28,6 @@
 	"bs-insertlink-select-a-page": "Ziel wählen …",
 	"bs-insertlink-select-a-namespace": "(Seiten)",
 	"bs-insertlink-empty-field-text": "Um einen Link einzufügen muss ein Ziel angegeben werden.",
-	"bs-insertlink-no-applet": "Das Applet konnte nicht geladen werden. Bitte überprüfe die Java-Installation."
+	"bs-insertlink-no-applet": "Das Applet konnte nicht geladen werden. Bitte überprüfe die Java-Installation.",
+	"bs-insertlink-tab-file": "Link auf Datei"
 }

@@ -18,5 +18,6 @@
 	"bs-insertlink-label-file": "Fichièr",
 	"bs-insertlink-label-searchfile": "Recèrca...",
 	"bs-insertlink-select-a-page": "Causir la cibla …",
-	"bs-insertlink-select-a-namespace": "(Paginas)"
+	"bs-insertlink-select-a-namespace": "(Paginas)",
+	"bs-insertlink-tab-file": "Ligam cap a un fichièr"
 }

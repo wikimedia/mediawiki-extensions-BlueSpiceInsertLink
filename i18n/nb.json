@@ -23,5 +23,6 @@
 	"bs-insertlink-select-a-page": "Velg mål …",
 	"bs-insertlink-select-a-namespace": "(Sider)",
 	"bs-insertlink-empty-field-text": "For å sette inn ei lenke må du oppgi et mål.",
-	"bs-insertlink-no-applet": "Miniprogrammet kunne ikke lastes. Sjekk Java-installasjonen din."
+	"bs-insertlink-no-applet": "Miniprogrammet kunne ikke lastes. Sjekk Java-installasjonen din.",
+	"bs-insertlink-tab-file": "Leke til fil"
 }

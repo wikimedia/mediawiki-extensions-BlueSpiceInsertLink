@@ -25,5 +25,12 @@
 	"bs-insertlink-select-a-page": "Escolha o destino...",
 	"bs-insertlink-select-a-namespace": "(Páginas)",
 	"bs-insertlink-empty-field-text": "Para inserir uma hiperligação tem de definir o destino.",
-	"bs-insertlink-no-applet": "Não foi possível carregar a <i>applet</i>. Verifique a sua instalação do Java, por favor."
+	"bs-insertlink-no-applet": "Não foi possível carregar a <i>applet</i>. Verifique a sua instalação do Java, por favor.",
+	"bs-insertlink-tab-file": "Hiperligação para ficheiro",
+	"bs-insertlink-internal-file-link-button-label": "Escolher ficheiro",
+	"bs-insertlink-external-file-switch-label": "Caminho da rede local (URI)",
+	"bs-insertlink-pref-filesystemmap": "Localizações permitidas para ficheiros externos",
+	"bs-insertlink-pref-filesystemmap-fs-prefix": "Prefixo do sistema de ficheiros",
+	"bs-insertlink-pref-filesystemmap-web-prefix": "Prefixo acessível da Internet",
+	"bs-insertlink-pref-allowunmapped": "Permitir hiperligações não mapeadas"
 }

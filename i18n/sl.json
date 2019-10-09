@@ -25,5 +25,6 @@
 	"bs-insertlink-select-a-page": "Izberite cilj ...",
 	"bs-insertlink-select-a-namespace": "(Strani)",
 	"bs-insertlink-empty-field-text": "Če želite vstaviti povezavo, morate navesti cilj.",
-	"bs-insertlink-no-applet": "Appleta ni mogoče naložiti. Prosimo, preverite vašo namestitev Jave."
+	"bs-insertlink-no-applet": "Appleta ni mogoče naložiti. Prosimo, preverite vašo namestitev Jave.",
+	"bs-insertlink-tab-file": "Povezava na datoteko"
 }

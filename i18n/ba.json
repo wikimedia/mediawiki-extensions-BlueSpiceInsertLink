@@ -25,5 +25,6 @@
 	"bs-insertlink-select-a-page": "Маҡсат һайлағыҙ...",
 	"bs-insertlink-select-a-namespace": "(Биттәр)",
 	"bs-insertlink-empty-field-text": "Һылтанма ҡуйыу өсөн аҙаҡҡы һөҙөмтәне күрһәтегеҙ",
-	"bs-insertlink-no-applet": "Был апплетты күсереп булманы. Зинһар, Java-ның дөрөҫ ҡуйылыуын тикшерегеҙ"
+	"bs-insertlink-no-applet": "Был апплетты күсереп булманы. Зинһар, Java-ның дөрөҫ ҡуйылыуын тикшерегеҙ",
+	"bs-insertlink-tab-file": "Файлға һылтанма"
 }

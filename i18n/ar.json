@@ -24,5 +24,12 @@
 	"bs-insertlink-select-a-page": "اختر هدفا ...",
 	"bs-insertlink-select-a-namespace": "(صفحات)",
 	"bs-insertlink-empty-field-text": "لإدراج رابط تحتاج إلى تحديد وجهة.",
-	"bs-insertlink-no-applet": "لا يمكن تحميل البريمج; يرجى التحقق من تثبيت جافا الخاص بك."
+	"bs-insertlink-no-applet": "لا يمكن تحميل البريمج; يرجى التحقق من تثبيت جافا الخاص بك.",
+	"bs-insertlink-tab-file": "رابط لملف",
+	"bs-insertlink-internal-file-link-button-label": "اختيار ملف",
+	"bs-insertlink-external-file-switch-label": "مسار مشاركة الشبكة (URI)",
+	"bs-insertlink-pref-filesystemmap": "المواقع المسموح بها للملفات الخارجية",
+	"bs-insertlink-pref-filesystemmap-fs-prefix": "بادئة نظام الملفات",
+	"bs-insertlink-pref-filesystemmap-web-prefix": "بادئة الوصول إلى الويب",
+	"bs-insertlink-pref-allowunmapped": "السماح بالوصلات غير المعينة"
 }

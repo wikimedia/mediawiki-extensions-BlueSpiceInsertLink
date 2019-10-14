@@ -1,7 +1,7 @@
 {
 	"name": "BlueSpiceInsertLink",
 	"license-name": "GPL-3.0-only",
-	"version": "3.1.0",
+	"version": "3.2.0-alpha",
 	"url": "https://en.wiki.bluespice.com/wiki/Reference:InsertLink",
 	"author": [
 		"Markus Glaser",
@@ -13,8 +13,8 @@
 	"requires": {
 		"MediaWiki": "~1.31",
 		"extensions": {
-			"BlueSpiceFoundation": "~3.1",
-			"BlueSpiceVisualEditorConnector": "~3.1"
+			"BlueSpiceFoundation": "~3.2",
+			"BlueSpiceVisualEditorConnector": "~3.2"
 		}
 	},
 	"attributes": {

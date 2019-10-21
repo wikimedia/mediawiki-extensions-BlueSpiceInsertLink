@@ -15,7 +15,7 @@ Ext.define( 'BS.InsertLink.FormPanelFileLink', {
 	protocols: [ 'file:///' ],
 	bIsJavaEnabled: mw.config.get( "bsgInsertLinkEnableJava" ),
 	beforeInitComponent: function() {
-		this.setTitle( mw.message('bs-insertlink-tab-ext-file').plain() );
+		this.setTitle( mw.message('bs-insertlink-tab-ext-link').plain() );
 
 		this.tfTargetUrl = Ext.create( 'Ext.form.field.Text', {
 			id: 'BSInserLinkTargetUrl',

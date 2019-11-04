@@ -23,5 +23,11 @@
 	"bs-insertlink-select-a-page": "Velg mål …",
 	"bs-insertlink-select-a-namespace": "(Sider)",
 	"bs-insertlink-empty-field-text": "For å sette inn ei lenke må du oppgi et mål.",
-	"bs-insertlink-no-applet": "Miniprogrammet kunne ikke lastes. Sjekk Java-installasjonen din."
+	"bs-insertlink-no-applet": "Miniprogrammet kunne ikke lastes. Sjekk Java-installasjonen din.",
+	"bs-insertlink-internal-file-link-button-label": "Velg fil",
+	"bs-insertlink-external-file-switch-label": "Nettverksdelingssti (URI)",
+	"bs-insertlink-pref-filesystemmap": "Tillatte beliggenheter for eksterne filer",
+	"bs-insertlink-pref-filesystemmap-fs-prefix": "Filsystemprefiks",
+	"bs-insertlink-pref-filesystemmap-web-prefix": "Prefiks tilgjengelig over nettet",
+	"bs-insertlink-pref-allowunmapped": "Tillat ikke-mappede lenker"
 }

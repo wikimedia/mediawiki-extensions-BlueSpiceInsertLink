@@ -1,9 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Pyscowicz"
+			"Pyscowicz",
+			"Silvonen"
 		]
 	},
 	"bs-insertlink-label-mail": "Sähköpostiosoite",
-	"bs-insertlink-label-file": "Tiedosto"
+	"bs-insertlink-label-file": "Tiedosto",
+	"bs-insertlink-tab-ext-link": "Ulkoinen linkki",
+	"bs-insertlink-tab-email": "Sähköpostilinkki",
+	"bs-insertlink-tab-file": "Linkki tiedostoon",
+	"bs-insertlink-label-page": "Sivu",
+	"bs-insertlink-label-description": "Kuvaus"
 }

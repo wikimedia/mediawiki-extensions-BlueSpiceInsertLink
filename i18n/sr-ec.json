@@ -25,5 +25,6 @@
 	"bs-insertlink-label-file": "Датотека",
 	"bs-insertlink-select-a-page": "Изабери циљ...",
 	"bs-insertlink-select-a-namespace": "(Странице)",
-	"bs-insertlink-empty-field-text": "Да бисте уметнули везу, морате навести одредиште."
+	"bs-insertlink-empty-field-text": "Да бисте уметнули везу, морате навести одредиште.",
+	"bs-insertlink-internal-file-link-button-label": "Изабери датотеку"
 }

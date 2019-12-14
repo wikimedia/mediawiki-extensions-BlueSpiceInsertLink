@@ -7,6 +7,10 @@ use BlueSpice\Html\FormField\KeyValueField;
 
 class FilesystemMap extends FileExtensions {
 
+	/**
+	 *
+	 * @return string[]
+	 */
 	public function getPaths() {
 		return [
 			static::MAIN_PATH_FEATURE . '/' . static::FEATURE_EDITOR . '/BlueSpiceInsertLink',
@@ -15,14 +19,26 @@ class FilesystemMap extends FileExtensions {
 		];
 	}
 
+	/**
+	 *
+	 * @return string
+	 */
 	public function getLabelMessageKey() {
 		return 'bs-insertlink-pref-filesystemmap';
 	}
 
+	/**
+	 *
+	 * @return KeyValueField
+	 */
 	public function getHtmlFormField() {
 		return new KeyValueField( $this->makeFormFieldParams() );
 	}
 
+	/**
+	 *
+	 * @return array
+	 */
 	protected function makeFormFieldParams() {
 		return array_merge( parent::makeFormFieldParams(), [
 			'allowAdditions' => true,

@@ -1,6 +1,10 @@
 <?php
 
 class SpecialInsertLinkFileChooserJNLP extends UnlistedSpecialPage {
+	/**
+	 *
+	 * @var string
+	 */
 	protected $sJNPLTemplate = <<<THERE
 <?xml version="1.0" encoding="utf-8"?>
 <jnlp codebase="" href="" >
@@ -23,10 +27,17 @@ class SpecialInsertLinkFileChooserJNLP extends UnlistedSpecialPage {
 </jnlp>
 THERE;
 
+	/**
+	 *
+	 */
 	public function __construct() {
 		parent::__construct( 'InsertLinkFileChooserJNLP' );
 	}
 
+	/**
+	 *
+	 * @param string $subPage
+	 */
 	public function execute( $subPage ) {
 		global $wgServer, $wgScriptPath;
 
@@ -42,6 +53,10 @@ THERE;
 		);
 	}
 
+	/**
+	 *
+	 * @return string
+	 */
 	protected function getGroupName() {
 		return 'bluespice';
 	}

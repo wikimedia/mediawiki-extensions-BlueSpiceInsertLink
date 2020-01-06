@@ -3,7 +3,8 @@
 		"authors": [
 			"Nemo bis",
 			"Beta16",
-			"Selven"
+			"Selven",
+			"Dansita"
 		]
 	},
 	"bs-insertlink-desc": "Finestra di dialogo per inserire un collegamento",
@@ -25,5 +26,6 @@
 	"bs-insertlink-select-a-page": "Scegli la destinazione ...",
 	"bs-insertlink-select-a-namespace": "(Pagine)",
 	"bs-insertlink-empty-field-text": "Per inserire un link è necessario indicare una destinazione.",
-	"bs-insertlink-no-applet": "L'applet non può essere caricato. Si prega di controllare l'installazione di Java."
+	"bs-insertlink-no-applet": "L'applet non può essere caricato. Si prega di controllare l'installazione di Java.",
+	"bs-insertlink-internal-file-link-button-label": "Scegli un file"
 }

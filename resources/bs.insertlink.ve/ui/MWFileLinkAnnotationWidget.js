@@ -43,21 +43,6 @@ bs.insertlink.ui.MWFileLinkAnnotationWidget.prototype.addOtherTools = function (
 		change: 'onTextChange'
 	} );
 
-	this.internalLinkButton = new OO.ui.ButtonWidget( {
-		label: mw.message('bs-insertlink-internal-file-link-button-label').text()
-	} );
-	this.internalLinkButton.connect( this, {
-		click: function() {
-			var command = ve.init.target.getSurface().commandRegistry.lookup( 'media' );
-			if ( command ) {
-				command.execute( ve.init.target.getSurface() );
-			}
-		}
-	} );
-	this.internalFileLayout = new OO.ui.ActionFieldLayout( this.internalFilePicker, this.internalLinkButton, {
-		classes: [ 'bs-insertlink-internal-link-inspector-layout' ]
-	} );
-
 	this.typeSwitch = new OO.ui.ToggleSwitchWidget();
 	this.typeSwitch.connect( this, {
 		change: 'onTypeToggle'
@@ -69,7 +54,7 @@ bs.insertlink.ui.MWFileLinkAnnotationWidget.prototype.addOtherTools = function (
 
 	this.$element.append( new OO.ui.FieldsetLayout( {
 		items: [
-			this.internalFileLayout,
+			this.internalFilePicker,
 			this.input,
 			this.typeSwitchLayout
 		]
@@ -85,10 +70,10 @@ bs.insertlink.ui.MWFileLinkAnnotationWidget.prototype.onTypeToggle = function ( 
 
 	if ( value ){
 		this.internalFilePicker.query.setValue( null );
-		this.internalFileLayout.$element.hide();
+		this.internalFilePicker.$element.hide();
 		this.input.$element.show();
 	} else {
-		this.internalFileLayout.$element.show();
+		this.internalFilePicker.$element.show();
 		this.input.$element.hide();
 	}
 };

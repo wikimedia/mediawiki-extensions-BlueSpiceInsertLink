@@ -4,7 +4,8 @@
 			"SPQRobin",
 			"Siebrand",
 			"Esketti",
-			"Sjoerddebruin"
+			"Sjoerddebruin",
+			"Mainframe98"
 		]
 	},
 	"bs-insertlink-desc": "Het dialoogvenster voor het invoeren van een koppeling",
@@ -27,5 +28,7 @@
 	"bs-insertlink-select-a-namespace": "(Pagina's)",
 	"bs-insertlink-empty-field-text": "Voor het invoegen van een koppeling moet u een richting aangeven.",
 	"bs-insertlink-no-applet": "De applet kan niet worden geladen. Controleer uw Java-installatie.",
-	"bs-insertlink-tab-file": "Koppeling naar bestand"
+	"bs-insertlink-tab-file": "Koppeling naar bestand",
+	"bs-insertlink-internal-file-link-button-label": "Bestand kiezen",
+	"bs-insertlink-pref-filesystemmap-fs-prefix": "Bestandssysteemvoorvoegsel"
 }

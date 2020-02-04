@@ -4,5 +4,7 @@
 			"ToJack"
 		]
 	},
-	"bs-insertlink-label-searchfile": "Ҷустуҷӯ"
+	"bs-insertlink-label-searchfile": "Ҷустуҷӯ",
+	"bs-insertlink-tab-wiki-page": "Саҳифаи вики",
+	"bs-insertlink-select-a-namespace": "(Саҳифаҳо)"
 }

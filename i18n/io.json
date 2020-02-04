@@ -4,5 +4,7 @@
 			"Joao Xavier"
 		]
 	},
-	"bs-insertlink-label-description": "Deskripto"
+	"bs-insertlink-label-description": "Deskripto",
+	"bs-insertlink-label-page": "Pagini",
+	"bs-insertlink-select-a-namespace": "(Pagini)"
 }

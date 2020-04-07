@@ -1,12 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Hwboehm",
+			"Metalhead64",
+			"Mglaser",
 			"Robert Vogel <vogel@hallowelt.biz>",
 			"Stephan Muggli <muggli@hallowelt.biz>",
-			"Metalhead64",
-			"Umherirrender",
-			"Mglaser",
-			"Hwboehm"
+			"Umherirrender"
 		]
 	},
 	"bs-insertlink-desc": "Über ein Dialogfeld werden Links, z.B. zu bestehenden Seiten, eingebunden",

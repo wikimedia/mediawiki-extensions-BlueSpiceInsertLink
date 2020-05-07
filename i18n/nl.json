@@ -1,11 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Esketti",
+			"Mainframe98",
 			"SPQRobin",
 			"Siebrand",
-			"Esketti",
-			"Sjoerddebruin",
-			"Mainframe98"
+			"Sjoerddebruin"
 		]
 	},
 	"bs-insertlink-desc": "Het dialoogvenster voor het invoeren van een koppeling",

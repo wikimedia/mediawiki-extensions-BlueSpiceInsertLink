@@ -8,5 +8,6 @@
 	"bs-insertlink-label-description": "መግለጺ",
 	"bs-insertlink-label-file": "ፋይል",
 	"bs-insertlink-label-searchfile": "ምድላይ...",
-	"bs-insertlink-select-a-namespace": "(ገጻት)"
+	"bs-insertlink-select-a-namespace": "(ገጻት)",
+	"bs-insertlink-label-mail": "ናይ ኢሜይል ኣድራሻ"
 }

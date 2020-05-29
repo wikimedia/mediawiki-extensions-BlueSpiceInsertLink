@@ -99,10 +99,6 @@ bs.insertlink.ui.MWFileLinkAnnotationWidget.static.getAnnotationFromText = funct
 };
 
 bs.insertlink.ui.MWFileLinkAnnotationWidget.prototype.setAnnotation = function ( annotation, fromText ) {
-	if ( !annotation ) {
-		this.internalFilePicker.query.setValue( null );
-	}
-
 	this.isExternal = annotation instanceof bs.insertlink.dm.ExternalFileLinkAnnotation;
 	bs.insertlink.ui.MWFileLinkAnnotationWidget.parent.prototype.setAnnotation.call( this, annotation, fromText );
 

@@ -6,5 +6,6 @@
 	},
 	"bs-insertlink-label-description": "Deskripto",
 	"bs-insertlink-label-page": "Pagini",
-	"bs-insertlink-select-a-namespace": "(Pagini)"
+	"bs-insertlink-select-a-namespace": "(Pagini)",
+	"bs-insertlink-label-searchfile": "Serchez..."
 }

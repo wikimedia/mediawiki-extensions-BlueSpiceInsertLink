@@ -11,5 +11,6 @@
 	"bs-insertlink-select-a-page": "Vælg mål …",
 	"bs-insertlink-select-a-namespace": "(Sider)",
 	"bs-insertlink-tab-ext-link": "Ekstern henvisning",
-	"bs-insertlink-label-mail": "E-mailadresse"
+	"bs-insertlink-label-mail": "E-mailadresse",
+	"bs-insertlink-tab-wiki-page": "Wikiside"
 }

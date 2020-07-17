@@ -3,6 +3,7 @@
 		"authors": [
 			"Kc kennylau",
 			"Ktchankt",
+			"Moon0319",
 			"Yueman"
 		]
 	},
@@ -10,14 +11,14 @@
 	"prefs-insertlink": "插連結",
 	"bs-insertlink": "插入連結",
 	"bs-insertlink-pref-enable-java": "啟用Java applet",
-	"bs-insertlink-button-title": "插入或者修改連結",
+	"bs-insertlink-button-title": "加或者改拎",
 	"bs-insertlink-dialog-title": "插入連結",
 	"bs-insertlink-tab-wiki-page": "維基頁面",
-	"bs-insertlink-tab-ext-link": "外部連結",
+	"bs-insertlink-tab-ext-link": "外部拎",
 	"bs-insertlink-tab-email": "電郵連結",
 	"bs-insertlink-tab-file": "連去檔案",
 	"bs-insertlink-label-page": "版",
-	"bs-insertlink-label-link": "連結",
+	"bs-insertlink-label-link": "拎",
 	"bs-insertlink-label-mail": "電郵地址",
 	"bs-insertlink-label-description": "描述",
 	"bs-insertlink-label-file": "檔案",

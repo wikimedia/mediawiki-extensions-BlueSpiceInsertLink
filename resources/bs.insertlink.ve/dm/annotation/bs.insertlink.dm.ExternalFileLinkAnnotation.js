@@ -21,9 +21,7 @@ bs.insertlink.dm.ExternalFileLinkAnnotation.static.matchFunction = function( dom
 };
 
 bs.insertlink.dm.ExternalFileLinkAnnotation.static.getHref = function ( dataElement ) {
-	var href = dataElement.attributes.href;
-
-	return encodeURI( href );
+	return dataElement.attributes.href;
 };
 
 /* Registration */

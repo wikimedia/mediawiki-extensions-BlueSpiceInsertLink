@@ -18,7 +18,7 @@ bs.insertlink.widget.LocalFilePathInputWidget.static.checkAndPrefix = function( 
 	}
 
 	if ( allowUnMapped ) {
-		map['*'] = 'file:\/\/';
+		map['*'] = 'file:\/\/\/';
 	}
 
 	for ( var fsPrefix in map ) {

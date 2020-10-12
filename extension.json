@@ -13,8 +13,8 @@
 	"requires": {
 		"MediaWiki": ">= 1.35.0",
 		"extensions": {
-			"BlueSpiceFoundation": ">= 3.3",
-			"BlueSpiceVisualEditorConnector": ">= 3.3"
+			"BlueSpiceFoundation": ">= 4.0",
+			"BlueSpiceVisualEditorConnector": ">= 4.0"
 		}
 	},
 	"attributes": {

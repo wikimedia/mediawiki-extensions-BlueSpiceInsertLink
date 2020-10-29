@@ -27,5 +27,6 @@
 	"bs-insertlink-no-applet": "No se pudo cargar la miniaplicación. Comprueba la instalación de Java.",
 	"bs-insertlink-external-file-switch-label": "Ruta de compartición de red (URI)",
 	"bs-insertlink-pref-filesystemmap": "Ubicaciones permitidas para archivos externos",
-	"bs-insertlink-pref-filesystemmap-fs-prefix": "Prefijo de sistema de archivos"
+	"bs-insertlink-pref-filesystemmap-fs-prefix": "Prefijo de sistema de archivos",
+	"bs-insertlink-pref-allowunmapped": "Permitir enlaces no asignados"
 }

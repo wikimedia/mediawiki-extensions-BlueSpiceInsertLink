@@ -99,12 +99,12 @@ bs.insertlink.ui.MWFileLinkAnnotationWidget.static.getAnnotationFromText = funct
 };
 
 bs.insertlink.ui.MWFileLinkAnnotationWidget.prototype.setAnnotation = function ( annotation, fromText ) {
-	this.isExternal = annotation instanceof bs.insertlink.dm.ExternalFileLinkAnnotation;
 	bs.insertlink.ui.MWFileLinkAnnotationWidget.parent.prototype.setAnnotation.call( this, annotation, fromText );
-
 	if ( !this.annotation )  {
 		return;
 	}
+	this.isExternal = annotation instanceof bs.insertlink.dm.ExternalFileLinkAnnotation;
+
 	if ( this.annotation instanceof bs.insertlink.dm.ExternalFileLinkAnnotation ) {
 		this.typeSwitch.setValue( true );
 	}

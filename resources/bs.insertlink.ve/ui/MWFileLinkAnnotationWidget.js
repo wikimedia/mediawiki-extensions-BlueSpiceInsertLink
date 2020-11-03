@@ -86,7 +86,7 @@ bs.insertlink.ui.MWFileLinkAnnotationWidget.static.getAnnotationFromText = funct
 	if ( value === '' ) {
 		return null;
 	} else if( internal ) {
-		var title = mw.Title.newFromText( value, bs.ns.NS_FILE );
+		var title = mw.Title.makeTitle( bs.ns.NS_FILE, value );
 		return bs.vec.dm.InternalFileLinkAnnotation.static.newFromTitle( title );
 	} else {
 		return new bs.insertlink.dm.ExternalFileLinkAnnotation( {

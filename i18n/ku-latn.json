@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Balyozxane",
 			"George Animal",
 			"Ghybu"
 		]
@@ -8,5 +9,6 @@
 	"bs-insertlink-label-page": "Rûpel",
 	"bs-insertlink-label-link": "Girêdan",
 	"bs-insertlink-label-mail": "Navnîşana e-nameyê",
+	"bs-insertlink-label-description": "Danasîn",
 	"bs-insertlink-select-a-namespace": "(Rûpel)"
 }

@@ -1,11 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mirzali",
-			"BaRaN6161 TURK"
+			"BaRaN6161 TURK",
+			"Mirzali"
 		]
 	},
-	"bs-insertlink-label-searchfile": "Arama...",
+	"bs-insertlink-label-searchfile": "Ara...",
 	"bs-insertlink-select-a-page": "Hedef seç...",
 	"bs-insertlink-desc": "Bağlantı girmek için iletişim kutusu",
 	"prefs-insertlink": "Bağlantı ekle",

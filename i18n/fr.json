@@ -1,11 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Derugon",
 			"Gomoko",
 			"Kc kennylau",
-			"Wladek92",
-			"Derugon",
-			"Verdy p"
+			"Verdy p",
+			"Wladek92"
 		]
 	},
 	"bs-insertlink-desc": "Boîte de dialogue pour saisir un lien",

@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"bs-insertlink-desc": "Dijaloški okvir za unos veze",
 	"prefs-insertlink": "Umetni vezu",
 	"bs-insertlink": "Umetni vezu",

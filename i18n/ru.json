@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"Alexandr Efremov",
 			"Meshkov.a",
-			"Okras",
-			"Alexandr Efremov"
+			"Okras"
 		]
 	},
 	"bs-insertlink-desc": "Диалоговое окно для ввода ссылки",

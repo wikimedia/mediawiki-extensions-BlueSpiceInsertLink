@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"W"
+		]
+	},
+	"prefs-insertlink": "Уставіць спасылку",
+	"bs-insertlink": "Уставіць спасылку",
+	"bs-insertlink-button-title": "Уставіць/правіць спасылку",
+	"bs-insertlink-dialog-title": "Уставіць спасылку",
+	"bs-insertlink-tab-wiki-page": "Вікістаронка",
+	"bs-insertlink-tab-ext-link": "Вонкавая спасылка",
+	"bs-insertlink-tab-file": "Спасылка на файл",
+	"bs-insertlink-label-page": "Старонка",
+	"bs-insertlink-label-link": "Спасылка",
+	"bs-insertlink-label-mail": "Адрас электроннай пошты",
+	"bs-insertlink-label-description": "Апісаньне",
+	"bs-insertlink-label-file": "Файл",
+	"bs-insertlink-internal-file-link-button-label": "Абраць файл"
+}

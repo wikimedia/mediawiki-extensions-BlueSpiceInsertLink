@@ -5,6 +5,7 @@ node_modules/**
 vendor/**
 !vendor/src/**
 !vendor/bsFileLinkChooser.jar
+/.eslintcache
 
 composer.lock
 composer.phar

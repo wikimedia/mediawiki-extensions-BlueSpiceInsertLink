@@ -45,7 +45,7 @@
 		"InsertLinkAlias": "languages/InsertLink.alias.php"
 	},
 	"AutoloadNamespaces": {
-		"BlueSpice\\InsertLink\\" : "src/"
+		"BlueSpice\\InsertLink\\": "src/"
 	},
 	"AutoloadClasses": {
 		"SpecialInsertLinkFileChooserJNLP": "includes/specials/SpecialInsertLinkFileChooserJNLP.php"

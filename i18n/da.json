@@ -12,5 +12,6 @@
 	"bs-insertlink-label-file": "Fil",
 	"bs-insertlink-label-searchfile": "Søg...",
 	"bs-insertlink-select-a-page": "Vælg mål …",
-	"bs-insertlink-select-a-namespace": "(Sider)"
+	"bs-insertlink-select-a-namespace": "(Sider)",
+	"bs-insertlink-internal-file-link-button-label": "Vælg fil"
 }

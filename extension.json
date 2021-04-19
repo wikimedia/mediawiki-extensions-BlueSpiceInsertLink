@@ -22,12 +22,12 @@
 			"Extensions": {
 				"BlueSpiceInsertLink": {
 					"className": "\\BlueSpice\\InsertLink\\Extension",
-					"extPath": "/BlueSpiceInsertLink",
-					"configDefinitions": {
-						"InsertLinkAllowUnMapped": "\\BlueSpice\\InsertLink\\ConfigDefinition\\AllowUnMapped::getInstance",
-						"InsertLinkFilesystemMap": "\\BlueSpice\\InsertLink\\ConfigDefinition\\FilesystemMap::getInstance"
-					}
+					"extPath": "/BlueSpiceInsertLink"
 				}
+			},
+			"ConfigDefinitionRegistry": {
+				"InsertLinkAllowUnMapped": "\\BlueSpice\\InsertLink\\ConfigDefinition\\AllowUnMapped::getInstance",
+				"InsertLinkFilesystemMap": "\\BlueSpice\\InsertLink\\ConfigDefinition\\FilesystemMap::getInstance"
 			}
 		},
 		"BlueSpiceVisualEditorConnector": {

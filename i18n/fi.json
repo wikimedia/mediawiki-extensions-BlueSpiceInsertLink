@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Joquliina",
 			"Pyscowicz",
 			"Silvonen"
 		]
@@ -9,6 +10,7 @@
 	"bs-insertlink-tab-email": "Sähköpostilinkki",
 	"bs-insertlink-tab-file": "Linkki tiedostoon",
 	"bs-insertlink-label-page": "Sivu",
+	"bs-insertlink-label-link": "Linkki",
 	"bs-insertlink-label-mail": "Sähköpostiosoite",
 	"bs-insertlink-label-description": "Kuvaus",
 	"bs-insertlink-label-file": "Tiedosto"

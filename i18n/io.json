@@ -8,5 +8,6 @@
 	"bs-insertlink-label-page": "Pagini",
 	"bs-insertlink-select-a-namespace": "(Pagini)",
 	"bs-insertlink-label-file": "Arkivo",
-	"bs-insertlink-label-searchfile": "Serchez..."
+	"bs-insertlink-label-searchfile": "Serchez...",
+	"bs-insertlink-label-mail": "E-postal adreso"
 }

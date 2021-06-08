@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Joquliina",
 			"Pyscowicz",
 			"Silvonen"
 		]
@@ -11,5 +12,9 @@
 	"bs-insertlink-tab-email": "Sähköpostilinkki",
 	"bs-insertlink-tab-file": "Linkki tiedostoon",
 	"bs-insertlink-label-page": "Sivu",
-	"bs-insertlink-label-description": "Kuvaus"
+	"bs-insertlink-label-description": "Kuvaus",
+	"bs-insertlink-label-link": "Linkki",
+	"bs-insertlink-label-searchfile": "Etsi...",
+	"bs-insertlink-select-a-namespace": "(Sivut)",
+	"bs-insertlink-empty-field-text": "Lisätäksesi linkin sinun on määriteltävä kohde."
 }

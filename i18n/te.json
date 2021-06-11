@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Chaduvari",
 			"Veeven"
 		]
 	},
@@ -8,10 +9,11 @@
 	"bs-insertlink-tab-email": "ఈమెయిలు లంకె",
 	"bs-insertlink-tab-file": "ఫైలుకి లంకె",
 	"bs-insertlink-label-page": "పేజీ",
-	"bs-insertlink-label-link": "లంకె",
+	"bs-insertlink-label-link": "లింకు",
 	"bs-insertlink-label-mail": "ఈమెయిలు చిరునామా",
 	"bs-insertlink-label-description": "వివరణ",
 	"bs-insertlink-label-file": "ఫైలు",
 	"bs-insertlink-label-searchfile": "వెతకండి...",
-	"bs-insertlink-select-a-namespace": "(పేజీలు)"
+	"bs-insertlink-select-a-namespace": "(పేజీలు)",
+	"bs-insertlink-button-title": "లింకును చేర్చండి/సవరించండి"
 }

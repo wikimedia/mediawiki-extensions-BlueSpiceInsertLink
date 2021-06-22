@@ -35,5 +35,8 @@
 	"bs-insertlink-pref-filesystemmap": "Erlaubte Orte für externe Dateien",
 	"bs-insertlink-pref-filesystemmap-fs-prefix": "Dateisystempräfix",
 	"bs-insertlink-pref-filesystemmap-web-prefix": "Präfix für den Webzugriff",
-	"bs-insertlink-pref-allowunmapped": "Erlaube nicht zugeordnete Links"
+	"bs-insertlink-pref-allowunmapped": "Erlaube nicht zugeordnete Links",
+	"bs-insertlink-pref-filesystemmap-help": "Externe Speicherorte, die ein Verlinken auf Dateien erlauben. Diese Orte werden als Schlüssel/Wert-Paare eingegeben.",
+	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "Speicherpfad. Zum Beispiel X:\\Dokumente für bereitgestellte Laufwerke.",
+	"bs-insertlink-pref-filesystemmap-web-prefix-help": "Alle Dateien aus dem Dateisystem werden in den Suchergebnissen mit einem Präfix ausgegeben. Es sollte benutzt werden, wenn Dateien von einem Webserver zugänglich sind. Standardmäßig ist das URL-Präfix der gleiche Wert wie der physikalische Dateipfad."
 }

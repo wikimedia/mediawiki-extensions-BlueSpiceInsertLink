@@ -34,5 +34,8 @@
 	"bs-insertlink-pref-filesystemmap": "Label for the settings defining the mapping between physical locations and web-accessible locations",
 	"bs-insertlink-pref-filesystemmap-fs-prefix": "Label for the \"key\" input of the filesystem map",
 	"bs-insertlink-pref-filesystemmap-web-prefix": "Label for the \"value\" input of the filesystem map",
-	"bs-insertlink-pref-allowunmapped": "Label for the setting that will allow file locations other than defined in filesystem map to be added"
+	"bs-insertlink-pref-allowunmapped": "Label for the setting that will allow file locations other than defined in filesystem map to be added",
+	"bs-insertlink-pref-filesystemmap-help": "Description for config variable \"InsertLinkFilesystemMap\"",
+	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "Help message for filesystem prefix input field",
+	"bs-insertlink-pref-filesystemmap-web-prefix-help": "Help message for web accessible prefix input field"
 }

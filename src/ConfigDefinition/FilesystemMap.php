@@ -49,4 +49,12 @@ class FilesystemMap extends FileExtensions {
 		] );
 	}
 
+	/**
+	 *
+	 * @return string
+	 */
+	public function getHelpMessageKey() {
+		return 'bs-insertlink-pref-filesystemmap-help';
+	}
+
 }

@@ -30,5 +30,8 @@
 	"bs-insertlink-pref-filesystemmap": "Allowed locations for external files",
 	"bs-insertlink-pref-filesystemmap-fs-prefix": "Filesystem prefix",
 	"bs-insertlink-pref-filesystemmap-web-prefix": "Web accessible prefix",
-	"bs-insertlink-pref-allowunmapped": "Allow unmapped links"
+	"bs-insertlink-pref-allowunmapped": "Allow unmapped links",
+	"bs-insertlink-pref-filesystemmap-help": "External locations of files that allow linking. These locations are entered in key/value pairs.",
+	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "Storage path. For mounted drives, for example: X:\\Documents",
+	"bs-insertlink-pref-filesystemmap-web-prefix-help": "All files indexed from the indexed physical location are prefixed in the search results. It should be used if files are available from a web server. By default, the URL prefix is set to the same value as the physical path."
 }

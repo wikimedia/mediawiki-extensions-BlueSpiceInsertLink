@@ -70,7 +70,7 @@ bs.insertlink.widget.LocalFilePathInputWidget.prototype.convertToWebPath = funct
 		return '';
 	}
 
-	value = value.replace( /\s/g, '+' );
+	value = value.replace( /\s/g, '%20' );
 	value = value.replace( /\\/g, '/' );
 	return value.trim();
 };

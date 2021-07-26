@@ -4,5 +4,7 @@
 			"Ajeje Brazorf"
 		]
 	},
-	"bs-insertlink-label-file": "File"
+	"bs-insertlink-label-file": "File",
+	"bs-insertlink-label-page": "Pàggina",
+	"bs-insertlink-select-a-namespace": "(Pàggini)"
 }

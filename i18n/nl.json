@@ -3,6 +3,7 @@
 		"authors": [
 			"Esketti",
 			"Mainframe98",
+			"McDutchie",
 			"SPQRobin",
 			"Siebrand",
 			"Sjoerddebruin"
@@ -30,5 +31,9 @@
 	"bs-insertlink-no-applet": "De applet kan niet worden geladen. Controleer uw Java-installatie.",
 	"bs-insertlink-tab-file": "Koppeling naar bestand",
 	"bs-insertlink-internal-file-link-button-label": "Bestand kiezen",
-	"bs-insertlink-pref-filesystemmap-fs-prefix": "Bestandssysteemvoorvoegsel"
+	"bs-insertlink-pref-filesystemmap-fs-prefix": "Bestandssysteemvoorvoegsel",
+	"bs-insertlink-external-file-switch-label": "Pad voor netwerkshare (URI)",
+	"bs-insertlink-pref-filesystemmap": "Toegestane locaties voor externe bestanden",
+	"bs-insertlink-pref-filesystemmap-web-prefix": "Voorvoegsel webtoegang",
+	"bs-insertlink-pref-allowunmapped": "Koppelingen naar onbekende locaties toestaan"
 }

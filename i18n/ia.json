@@ -21,5 +21,14 @@
 	"bs-insertlink-select-a-page": "Selige destination…",
 	"bs-insertlink-select-a-namespace": "(Paginas)",
 	"bs-insertlink-empty-field-text": "Pro inserer un ligamine es necessari specificar un destination.",
-	"bs-insertlink-tab-file": "Ligamine a un file"
+	"bs-insertlink-tab-file": "Ligamine a un file",
+	"prefs-insertlink": "Inserer ligamine",
+	"bs-insertlink-pref-enable-java": "Activar applet Java",
+	"bs-insertlink-no-applet": "Le applet non poteva esser cargate. Per favor verifica tu installation de Java.",
+	"bs-insertlink-internal-file-link-button-label": "Seliger file",
+	"bs-insertlink-external-file-switch-label": "Percurso de rete (URI)",
+	"bs-insertlink-pref-filesystemmap": "Extensiones permittite pro files externe",
+	"bs-insertlink-pref-filesystemmap-fs-prefix": "Prefixo del systema de files",
+	"bs-insertlink-pref-filesystemmap-web-prefix": "Prefixo de accesso web",
+	"bs-insertlink-pref-allowunmapped": "Permitter ligamines non mappate"
 }

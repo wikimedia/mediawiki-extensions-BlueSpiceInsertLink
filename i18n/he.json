@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Amire80",
 			"Guycn2",
 			"SGTTechnologicBunny",
 			"Steeve815",
@@ -31,5 +32,6 @@
 	"bs-insertlink-internal-file-link-button-label": "בחירת קובץ",
 	"bs-insertlink-pref-filesystemmap-fs-prefix": "קידומת מערכת קבצים",
 	"bs-insertlink-pref-filesystemmap-web-prefix": "קידומת נגישה מהאינטרנט",
-	"bs-insertlink-pref-allowunmapped": "לאפשר קישורים לא ממופים"
+	"bs-insertlink-pref-allowunmapped": "לאפשר קישורים לא ממופים",
+	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "נתיב אחסון. עבור כוננים מורכבים, למשל: X:\\Documents"
 }

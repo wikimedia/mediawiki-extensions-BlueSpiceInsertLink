@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"DDPAT",
 			"Ата"
 		]
 	},
@@ -30,5 +31,8 @@
 	"bs-insertlink-pref-filesystemmap": "Дозволені розташування зовнішніх файлів",
 	"bs-insertlink-pref-filesystemmap-fs-prefix": "Префікс файлової системи",
 	"bs-insertlink-pref-filesystemmap-web-prefix": "Префікс веб-доступності",
-	"bs-insertlink-pref-allowunmapped": "Дозволити невизначені посилання"
+	"bs-insertlink-pref-allowunmapped": "Дозволити невизначені посилання",
+	"bs-insertlink-pref-filesystemmap-help": "Зовнішні розташування файлів, які дозволяють пов'язувати. Ці місця вводяться в пари ключ/значення.",
+	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "Шлях зберігання. Наприклад, для навісних дисків: X:\\Documents",
+	"bs-insertlink-pref-filesystemmap-web-prefix-help": "Усі файли, індексовані з індексованого фізичного розташування, мають префікс у результатах пошуку. Його варто використовувати, якщо файли доступні з веб-сервера. За замовчуванням для префіксу URL-адреси встановлено те саме значення, що і для фізичного шляху."
 }

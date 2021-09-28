@@ -30,5 +30,8 @@
 	"bs-insertlink-pref-filesystemmap": "Extensiones permittite pro files externe",
 	"bs-insertlink-pref-filesystemmap-fs-prefix": "Prefixo del systema de files",
 	"bs-insertlink-pref-filesystemmap-web-prefix": "Prefixo de accesso web",
-	"bs-insertlink-pref-allowunmapped": "Permitter ligamines non mappate"
+	"bs-insertlink-pref-allowunmapped": "Permitter ligamines non mappate",
+	"bs-insertlink-pref-filesystemmap-help": "Ubicationes externe de files que permitte ligar a illos. Iste ubicationes se insere in pares clave/valor.",
+	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "Percurso de immagazinage. Pro unitates montate, per exemplo: X:\\Documentos",
+	"bs-insertlink-pref-filesystemmap-web-prefix-help": "Tote le files que es indexate a partir del percurso physic indexate se prefixa in le resultatos de recerca. Deberea esser usate si files es disponibile ab un servitor web. Per predefinition, le prefixo de URL ha le mesme valor que le percurso physic."
 }

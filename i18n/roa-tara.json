@@ -29,5 +29,7 @@
 	"bs-insertlink-pref-filesystemmap": "Dèje le posiziune de le file de fore",
 	"bs-insertlink-pref-filesystemmap-fs-prefix": "Prefisse d'u filesystem",
 	"bs-insertlink-pref-filesystemmap-web-prefix": "Prefisse de accessibbeletà a 'u web",
-	"bs-insertlink-pref-allowunmapped": "Dèje le collegaminde non mappate"
+	"bs-insertlink-pref-allowunmapped": "Dèje le collegaminde non mappate",
+	"bs-insertlink-pref-filesystemmap-help": "Posiziune de fore de le file ca permettene 'u collegamende. Ste posiziune avènene mise jndr'à coppie chiave/valore.",
+	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "Percorse de memorizzazione. Pe le drive mundate, pe esembie: X:\\Documents"
 }

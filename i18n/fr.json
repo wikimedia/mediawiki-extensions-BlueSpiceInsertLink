@@ -33,5 +33,8 @@
 	"bs-insertlink-pref-filesystemmap": "Emplacements de fichiers externes autorisés",
 	"bs-insertlink-pref-filesystemmap-fs-prefix": "Préfixe de protocole des fichiers systèmes",
 	"bs-insertlink-pref-filesystemmap-web-prefix": "Préfixe de protocole accessible Internet",
-	"bs-insertlink-pref-allowunmapped": "Autoriser les liens sans protocole reconnu"
+	"bs-insertlink-pref-allowunmapped": "Autoriser les liens sans protocole reconnu",
+	"bs-insertlink-pref-filesystemmap-help": "Emplacements externes des fichiers qui permettent le lien. Ces emplacements sont saisis sous la forme de paires clé/valeur.",
+	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "Chemin de stockage. Pour les disques montés, par exemple : X:\\Documents",
+	"bs-insertlink-pref-filesystemmap-web-prefix-help": "Tous les fichiers indexés depuis un emplacement de stockage physique sont préfixés dans les résultats de recherche. Il devrait être utilisé si les fichiers sont disponibles depuis un serveur web. Par défaut, le préfixe de l’URL est défini à la même valeur que le chemin physique."
 }

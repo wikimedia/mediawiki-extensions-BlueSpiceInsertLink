@@ -6,5 +6,6 @@
 	},
 	"bs-insertlink-label-file": "File",
 	"bs-insertlink-label-page": "Pàggina",
-	"bs-insertlink-select-a-namespace": "(Pàggini)"
+	"bs-insertlink-select-a-namespace": "(Pàggini)",
+	"bs-insertlink-label-description": "Discrizzioni"
 }

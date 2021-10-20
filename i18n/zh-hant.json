@@ -34,5 +34,8 @@
 	"bs-insertlink-pref-filesystemmap": "外部檔案的允許位置",
 	"bs-insertlink-pref-filesystemmap-fs-prefix": "檔案系統字首",
 	"bs-insertlink-pref-filesystemmap-web-prefix": "網頁可存取字首",
-	"bs-insertlink-pref-allowunmapped": "允許非對應連結"
+	"bs-insertlink-pref-allowunmapped": "允許非對應連結",
+	"bs-insertlink-pref-filesystemmap-help": "允許連結的檔案外部位置。這些位置是以鍵/值對的形式輸入。",
+	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "在掛載裝置的儲存路徑，例如： X:\\Documents",
+	"bs-insertlink-pref-filesystemmap-web-prefix-help": "所有來自已索引實體位置的索引檔案都在搜索結果中加上前綴。如果檔案可從 web 伺服器獲得則應使用。在預設情況下，URL 前綴的值被設定成等同於實體路徑。"
 }

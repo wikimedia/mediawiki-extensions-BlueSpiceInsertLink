@@ -4,5 +4,10 @@
 			"Yupik"
 		]
 	},
-	"bs-insertlink-label-file": "Teâttõs"
+	"bs-insertlink-label-file": "Teâttõs",
+	"bs-insertlink-label-page": "Seidd",
+	"bs-insertlink-label-link": "Liŋkk",
+	"bs-insertlink-label-mail": "E-pååʹštaddrõs",
+	"bs-insertlink-label-searchfile": "Ooʒʒ...",
+	"bs-insertlink-select-a-namespace": "(Seeid)"
 }

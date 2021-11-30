@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Fitoschido",
+			"Jakeukalane",
 			"Macofe"
 		]
 	},
@@ -11,7 +12,7 @@
 	"bs-insertlink-pref-enable-java": "Activar miniaplicación de Java",
 	"bs-insertlink-button-title": "Insertar o editar enlace",
 	"bs-insertlink-dialog-title": "Insertar enlace",
-	"bs-insertlink-tab-wiki-page": "Página del wiki",
+	"bs-insertlink-tab-wiki-page": "Página de la wiki",
 	"bs-insertlink-tab-ext-link": "Enlace externo",
 	"bs-insertlink-tab-email": "Enlace a correo",
 	"bs-insertlink-tab-ext-file": "Enlace a archivo",

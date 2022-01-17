@@ -4,7 +4,8 @@
 			"Comjun04",
 			"Hwangjy9",
 			"Revi",
-			"Ykhwong"
+			"Ykhwong",
+			"Yunbj"
 		]
 	},
 	"bs-insertlink-desc": "링크 입력을 위한 대화 상자",
@@ -26,5 +27,7 @@
 	"bs-insertlink-select-a-page": "대상 선택 ...",
 	"bs-insertlink-select-a-namespace": "(문서)",
 	"bs-insertlink-internal-file-link-button-label": "파일 선택",
-	"bs-insertlink-external-file-switch-label": "네트워크 공유 경로 (URI)"
+	"bs-insertlink-external-file-switch-label": "네트워크 공유 경로 (URI)",
+	"bs-insertlink-pref-filesystemmap-fs-prefix": "파일시스템 접두어",
+	"bs-insertlink-pref-filesystemmap-web-prefix": "웹 접근 가능한 접두어"
 }

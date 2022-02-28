@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Yupik"
+			"Yupik",
+			"Seipinne"
 		]
 	},
-	"bs-insertlink-label-file": "Tiätuvuárkká",
+	"bs-insertlink-label-page": "Sijđo",
 	"bs-insertlink-label-link": "Liŋkkâ",
-	"bs-insertlink-label-searchfile": "Uusâ...",
-	"bs-insertlink-label-mail": "Šleđgâpostâčujottâs"
+	"bs-insertlink-label-mail": "Šleđgâpostâčujottâs",
+	"bs-insertlink-label-file": "Tiätuvuárkká",
+	"bs-insertlink-label-searchfile": "Uusâ..."
 }

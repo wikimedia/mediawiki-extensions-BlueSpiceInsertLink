@@ -3,7 +3,8 @@
 		"authors": [
 			"Eduardo Addad de Oliveira",
 			"Eduardoaddad",
-			"Felipe L. Ewald"
+			"Felipe L. Ewald",
+			"Juan90264"
 		]
 	},
 	"bs-insertlink-desc": "Caixa de diálogo para digitar um link",
@@ -31,5 +32,8 @@
 	"bs-insertlink-pref-filesystemmap": "Locais permitidos para arquivos externos",
 	"bs-insertlink-pref-filesystemmap-fs-prefix": "Prefixo do sistema de arquivos",
 	"bs-insertlink-pref-filesystemmap-web-prefix": "Prefixo acessível pela Web",
-	"bs-insertlink-pref-allowunmapped": "Permitir links não mapeados"
+	"bs-insertlink-pref-allowunmapped": "Permitir links não mapeados",
+	"bs-insertlink-pref-filesystemmap-help": "Locais externos de arquivos que permitem vinculação. Esses locais são inseridos em pares de chave/valor.",
+	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "Caminho de armazenamento. Para unidades montadas, por exemplo: X:\\Documents",
+	"bs-insertlink-pref-filesystemmap-web-prefix-help": "Todos os arquivos indexados do local físico indexado são prefixados nos resultados da pesquisa. Deve ser usado se os arquivos estiverem disponíveis em um servidor web. Por padrão, o prefixo de URL é definido com o mesmo valor que o caminho físico."
 }

@@ -4,7 +4,8 @@
 			"Alirezaaa",
 			"FarsiNevis",
 			"Mjbmr",
-			"Reza1615"
+			"Reza1615",
+			"Beginneruser"
 		]
 	},
 	"bs-insertlink-desc": "پنجره محاوره‌ای برای واردکردن پیوند",
@@ -19,7 +20,7 @@
 	"bs-insertlink-label-page": "صفحه",
 	"bs-insertlink-label-link": "پیوند",
 	"bs-insertlink-label-mail": "نشانی ایمیل",
-	"bs-insertlink-label-description": "توضیح",
+	"bs-insertlink-label-description": "توضیحات",
 	"bs-insertlink-label-file": "پرونده",
 	"bs-insertlink-label-searchfile": "جستجو ...",
 	"bs-insertlink-select-a-page": "انتخاب هدف ...",

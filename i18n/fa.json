@@ -5,7 +5,8 @@
 			"FarsiNevis",
 			"Mjbmr",
 			"Reza1615",
-			"Beginneruser"
+			"Beginneruser",
+			"LordProfo"
 		]
 	},
 	"bs-insertlink-desc": "پنجره محاوره‌ای برای واردکردن پیوند",
@@ -25,5 +26,6 @@
 	"bs-insertlink-label-searchfile": "جستجو ...",
 	"bs-insertlink-select-a-page": "انتخاب هدف ...",
 	"bs-insertlink-select-a-namespace": "(صفحه‌ها)",
-	"bs-insertlink-empty-field-text": "برای درج یک پیوند باید مقصدی تعیین کنید."
+	"bs-insertlink-empty-field-text": "برای درج یک پیوند باید مقصدی تعیین کنید.",
+	"bs-insertlink-internal-file-link-button-label": "فایل را انتخاب کنید"
 }

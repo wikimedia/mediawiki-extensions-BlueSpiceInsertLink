@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"DiegoAmbrocio",
 			"Fitoschido",
 			"Jakeukalane",
 			"Macofe"
@@ -29,5 +30,9 @@
 	"bs-insertlink-external-file-switch-label": "Ruta de compartición de red (URI)",
 	"bs-insertlink-pref-filesystemmap": "Ubicaciones permitidas para archivos externos",
 	"bs-insertlink-pref-filesystemmap-fs-prefix": "Prefijo de sistema de archivos",
-	"bs-insertlink-pref-allowunmapped": "Permitir enlaces no asignados"
+	"bs-insertlink-pref-allowunmapped": "Permitir enlaces no asignados",
+	"bs-insertlink-internal-file-link-button-label": "Elegir el archivo",
+	"bs-insertlink-pref-filesystemmap-web-prefix": "Prefijo de acceso a la web",
+	"bs-insertlink-pref-filesystemmap-help": "Ubicaciones externas de los archivos que permiten la conexión. Estas ubicaciones se introducen en pares clave/valor.",
+	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "Ruta de almacenamiento. Para las unidades montadas, por ejemplo X:\\Documentos"
 }

@@ -3,6 +3,7 @@
 		"authors": [
 			"DiegoAmbrocio",
 			"Fitoschido",
+			"Francodiaz7",
 			"Jakeukalane",
 			"Macofe"
 		]
@@ -34,5 +35,6 @@
 	"bs-insertlink-pref-filesystemmap-web-prefix": "Prefijo de acceso a la web",
 	"bs-insertlink-pref-allowunmapped": "Permitir enlaces no asignados",
 	"bs-insertlink-pref-filesystemmap-help": "Ubicaciones externas de los archivos que permiten la conexión. Estas ubicaciones se introducen en pares clave/valor.",
-	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "Ruta de almacenamiento. Para las unidades montadas, por ejemplo X:\\Documentos"
+	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "Ruta de almacenamiento. Para las unidades montadas, por ejemplo X:\\Documentos",
+	"bs-insertlink-pref-filesystemmap-web-prefix-help": "Todos los archivos indexados desde la ubicación física indexada tienen un prefijo en los resultados de la búsqueda. Debe utilizarse si los archivos están disponibles desde un servidor web. Por defecto, el prefijo de la URL se establece con el mismo valor que la ruta física."
 }

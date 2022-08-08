@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Bada Kaji",
 			"हिमाल सुबेदी"
 		]
 	},
 	"bs-insertlink-label-page": "पृष्ठ",
+	"bs-insertlink-label-searchfile": "खोज्नुहोस्...",
 	"bs-insertlink-select-a-page": "निशाना छान्नुहाेस्..."
 }

@@ -3,7 +3,8 @@
 		"authors": [
 			"Alojz.tic",
 			"Dbc334",
-			"Skalcaa"
+			"Skalcaa",
+			"Eleassar"
 		]
 	},
 	"bs-insertlink-desc": "Pogovorno okno za vnos povezave",
@@ -12,7 +13,7 @@
 	"bs-insertlink-pref-enable-java": "Omogoči javansko aplikacijo",
 	"bs-insertlink-button-title": "Vstavi/uredi povezavo",
 	"bs-insertlink-dialog-title": "Vstavi povezavo",
-	"bs-insertlink-tab-wiki-page": "Wiki stran",
+	"bs-insertlink-tab-wiki-page": "Vikistran",
 	"bs-insertlink-tab-ext-link": "Zunanja povezava",
 	"bs-insertlink-tab-email": "Povezava e-pošte",
 	"bs-insertlink-tab-file": "Povezava na datoteko",

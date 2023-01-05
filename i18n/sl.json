@@ -26,5 +26,14 @@
 	"bs-insertlink-select-a-page": "Izberite cilj ...",
 	"bs-insertlink-select-a-namespace": "(Strani)",
 	"bs-insertlink-empty-field-text": "Če želite vstaviti povezavo, morate navesti cilj.",
-	"bs-insertlink-no-applet": "Appleta ni mogoče naložiti. Prosimo, preverite vašo namestitev Jave."
+	"bs-insertlink-no-applet": "Appleta ni mogoče naložiti. Prosimo, preverite vašo namestitev Jave.",
+	"bs-insertlink-internal-file-link-button-label": "Izberite datoteko",
+	"bs-insertlink-external-file-switch-label": "Pot skupne rabe omrežja (URI)",
+	"bs-insertlink-pref-filesystemmap": "Dovoljene lokacije za zunanje datoteke",
+	"bs-insertlink-pref-filesystemmap-fs-prefix": "Predpona datotečnega sistema",
+	"bs-insertlink-pref-filesystemmap-web-prefix": "Spletno dostopna predpona",
+	"bs-insertlink-pref-allowunmapped": "Dovoli povezave brez prepoznanega protokola",
+	"bs-insertlink-pref-filesystemmap-help": "Zunanje lokacije datotek, ki omogoča povezovanje. Te lokacije so vnese v parih ključ/vrednost.",
+	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "Pot shranjevanja. Za nameščene diske npr. X:\\Documents.",
+	"bs-insertlink-pref-filesystemmap-web-prefix-help": "Vse datoteke, indeksirane z indeksirane fizične lokacije, imajo v iskalnih zadetkih predpono. Uporabite jo, če so datoteke na voljo v spletnem strežniku. Privzeto je predpona URL-ja nastavljena na isto vrednost kot fizična pot."
 }

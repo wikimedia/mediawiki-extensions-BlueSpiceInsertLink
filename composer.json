@@ -29,5 +29,10 @@
 	},
 	"extra": {
 		"installer-name": "BlueSpiceInsertLink"
+	},
+	"config": {
+		"allow-plugins": {
+			"composer/installers": true
+		}
 	}
 }

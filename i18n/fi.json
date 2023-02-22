@@ -6,6 +6,9 @@
 			"Silvonen"
 		]
 	},
+	"prefs-insertlink": "Lisää linkki",
+	"bs-insertlink": "Lisää linkki",
+	"bs-insertlink-dialog-title": "Lisää linkki",
 	"bs-insertlink-tab-ext-link": "Ulkoinen linkki",
 	"bs-insertlink-tab-email": "Sähköpostilinkki",
 	"bs-insertlink-tab-file": "Linkki tiedostoon",

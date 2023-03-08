@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Shirayuki",
-			"Sujiniku"
+			"Sujiniku",
+			"もなー(偽物)"
 		]
 	},
 	"bs-insertlink-desc": "リンクを入力するダイアログボックス",
@@ -24,5 +25,6 @@
 	"bs-insertlink-select-a-page": "リンク先を選択 ...",
 	"bs-insertlink-select-a-namespace": "(ページ)",
 	"bs-insertlink-empty-field-text": "リンクを挿入するには、リンク先を指定する必要があります。",
-	"bs-insertlink-no-applet": "アプレットを読み込めませんでした。Java をインストールしていることを確認してください。"
+	"bs-insertlink-no-applet": "アプレットを読み込めませんでした。Java をインストールしていることを確認してください。",
+	"bs-insertlink-internal-file-link-button-label": "ファイルを選択"
 }

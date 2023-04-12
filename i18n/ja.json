@@ -26,5 +26,11 @@
 	"bs-insertlink-select-a-namespace": "(ページ)",
 	"bs-insertlink-empty-field-text": "リンクを挿入するには、リンク先を指定する必要があります。",
 	"bs-insertlink-no-applet": "アプレットを読み込めませんでした。Java をインストールしていることを確認してください。",
-	"bs-insertlink-internal-file-link-button-label": "ファイルを選択"
+	"bs-insertlink-internal-file-link-button-label": "ファイルを選択",
+	"bs-insertlink-external-file-switch-label": "ネットワーク共有パス (URI)",
+	"bs-insertlink-pref-filesystemmap": "外部ファイルの許可された場所",
+	"bs-insertlink-pref-filesystemmap-web-prefix": "Web アクセス可能なプレフィックス",
+	"bs-insertlink-pref-allowunmapped": "マップされていないリンクを許可する",
+	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "ストレージのパスです。例: (マウント済みドライブの場合) X:\\Documents",
+	"bs-insertlink-pref-filesystemmap-web-prefix-help": "インデックス付けされた物理的な場所からインデックスされたすべてのファイルは、検索結果が自動補完されます。 Web サーバーからファイルを取得できる場合に使用する必要があります。デフォルトでは、URL の自動補完は物理パスと同じ値に設定されています。"
 }

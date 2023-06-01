@@ -4,7 +4,8 @@
 			"Kc kennylau",
 			"Ktchankt",
 			"Moon0319",
-			"Yueman"
+			"Yueman",
+			"捍粵者"
 		]
 	},
 	"bs-insertlink-desc": "輸入連結嘅對話盒",
@@ -25,6 +26,6 @@
 	"bs-insertlink-label-searchfile": "揾……",
 	"bs-insertlink-select-a-page": "揀目標……",
 	"bs-insertlink-select-a-namespace": "（頁）",
-	"bs-insertlink-empty-field-text": "想插入一個連結嘅話，你需要作出描述。",
+	"bs-insertlink-empty-field-text": "插入連結嘅話要註明目的地。",
 	"bs-insertlink-no-applet": "載入唔到程式。請檢查下你個Java安裝情況。"
 }

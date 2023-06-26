@@ -4,5 +4,7 @@
 			"Bosogo"
 		]
 	},
-	"bs-insertlink-label-searchfile": "Издөө..."
+	"bs-insertlink-label-searchfile": "Издөө...",
+	"bs-insertlink-label-page": "Барак",
+	"bs-insertlink-select-a-namespace": "(Барактар)"
 }

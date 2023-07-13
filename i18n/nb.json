@@ -32,5 +32,6 @@
 	"bs-insertlink-pref-filesystemmap-web-prefix": "Prefiks tilgjengelig over nettet",
 	"bs-insertlink-pref-allowunmapped": "Tillat ikke-mappede lenker",
 	"bs-insertlink-pref-filesystemmap-help": "Eksterne plasseringer av filer som tillater lenking. Disse plasseringene er satt inn i nøkkel-/verdi-par.",
-	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "Lagringssti. For tilkoblede disker, for eksempel: X:\\Dokumenter"
+	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "Lagringssti. For tilkoblede disker, for eksempel: X:\\Dokumenter",
+	"bs-insertlink-pref-filesystemmap-web-prefix-help": "Alle filer indeksert fra den indekserte fysiske plasseringen får prefiks i søkeresultatene. Det bør brukes hvis filene er tilgjengelige fra en nettjener. Som standard er URL-prefikset satt til samme verdi som den fysiske stien."
 }

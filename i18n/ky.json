@@ -10,5 +10,8 @@
 	"bs-insertlink-label-link": "Шилтеме",
 	"bs-insertlink-label-file": "Файл",
 	"bs-insertlink-tab-ext-link": "Тышкы шилтеме",
-	"bs-insertlink-label-description": "Сыпаттама"
+	"bs-insertlink-label-description": "Сыпаттама",
+	"prefs-insertlink": "Шилтеме кошуу",
+	"bs-insertlink": "Шилтеме кошуу",
+	"bs-insertlink-dialog-title": "Шилтеме кошуу"
 }

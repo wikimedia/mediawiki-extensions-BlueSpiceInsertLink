@@ -6,7 +6,8 @@
 			"Viztor",
 			"沈澄心",
 			"落花有意12138",
-			"CrownedWharf566"
+			"CrownedWharf566",
+			"Vikarna"
 		]
 	},
 	"bs-insertlink-desc": "输入连接的对话框",
@@ -31,7 +32,10 @@
 	"bs-insertlink-no-applet": "不能加载小程序。请检查您的Java安装版本。",
 	"bs-insertlink-internal-file-link-button-label": "选取文件",
 	"bs-insertlink-external-file-switch-label": "网络分享路径（URL）",
+	"bs-insertlink-pref-filesystemmap": "外部文件的允许位置",
 	"bs-insertlink-pref-filesystemmap-fs-prefix": "文件系统前缀",
 	"bs-insertlink-pref-filesystemmap-web-prefix": "Web可访问资源前缀",
-	"bs-insertlink-pref-allowunmapped": "允许未映射链接"
+	"bs-insertlink-pref-allowunmapped": "允许未映射链接",
+	"bs-insertlink-pref-filesystemmap-help": "允许链接的文件外部位置。这些位置以键/值对的形式输入。",
+	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "已挂载驱动的存储路径，例如：X:\\Documents"
 }

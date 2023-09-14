@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"TerranBoy"
+		]
+	},
+	"bs-insertlink-tab-wiki-page": "پەڕەێ ویکی",
+	"bs-insertlink-tab-email": "بەسیار ئیمەیل",
+	"bs-insertlink-label-page": "پەڕە",
+	"bs-insertlink-label-link": "بەسیار",
+	"bs-insertlink-label-mail": "ناونیشان ئیمەیل",
+	"bs-insertlink-label-description": "وەسف",
+	"bs-insertlink-label-file": "پەڕگە",
+	"bs-insertlink-label-searchfile": "مینەکردن...",
+	"bs-insertlink-select-a-namespace": "(پەڕەگان)"
+}

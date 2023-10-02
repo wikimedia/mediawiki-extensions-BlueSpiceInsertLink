@@ -11,5 +11,8 @@
 	"bs-insertlink-label-description": "Цуьнах лаьцна",
 	"bs-insertlink-label-file": "Файл",
 	"bs-insertlink-label-searchfile": "Лахар…",
-	"bs-insertlink-select-a-namespace": "(АгӀонаш)"
+	"bs-insertlink-select-a-namespace": "(АгӀонаш)",
+	"bs-insertlink-label-link": "Хьажорг",
+	"bs-insertlink-select-a-page": "Ӏалашо харжа...",
+	"bs-insertlink-internal-file-link-button-label": "Файл харжа"
 }

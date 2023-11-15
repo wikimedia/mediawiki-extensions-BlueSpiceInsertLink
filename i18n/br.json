@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Fohanno",
-			"Y-M D"
+			"Y-M D",
+			"Adriendelucca"
 		]
 	},
 	"bs-insertlink": "Ensoc'hañ ul liamm",
@@ -18,5 +19,6 @@
 	"bs-insertlink-label-description": "Deskrivadur",
 	"bs-insertlink-label-file": "Restr",
 	"bs-insertlink-label-searchfile": "Klask...",
-	"bs-insertlink-select-a-namespace": "(Pajennoù)"
+	"bs-insertlink-select-a-namespace": "(Pajennoù)",
+	"bs-insertlink-internal-file-link-button-label": "Diuzañ ur restr"
 }

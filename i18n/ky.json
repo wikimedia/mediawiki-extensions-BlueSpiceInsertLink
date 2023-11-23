@@ -4,5 +4,14 @@
 			"Bosogo"
 		]
 	},
-	"bs-insertlink-label-searchfile": "Издөө..."
+	"bs-insertlink-label-searchfile": "Издөө...",
+	"prefs-insertlink": "Шилтеме кошуу",
+	"bs-insertlink": "Шилтеме кошуу",
+	"bs-insertlink-dialog-title": "Шилтеме кошуу",
+	"bs-insertlink-tab-ext-link": "Тышкы шилтеме",
+	"bs-insertlink-label-page": "Барак",
+	"bs-insertlink-label-link": "Шилтеме",
+	"bs-insertlink-label-description": "Сыпаттама",
+	"bs-insertlink-label-file": "Файл",
+	"bs-insertlink-select-a-namespace": "(Барактар)"
 }

@@ -32,5 +32,6 @@
 	"bs-insertlink-pref-filesystemmap-web-prefix": "Web アクセス可能なプレフィックス",
 	"bs-insertlink-pref-allowunmapped": "マップされていないリンクを許可する",
 	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "ストレージのパスです。例: (マウント済みドライブの場合) X:\\Documents",
-	"bs-insertlink-pref-filesystemmap-web-prefix-help": "インデックス付けされた物理的な場所からインデックスされたすべてのファイルは、検索結果が自動補完されます。 Web サーバーからファイルを取得できる場合に使用する必要があります。デフォルトでは、URL の自動補完は物理パスと同じ値に設定されています。"
+	"bs-insertlink-pref-filesystemmap-web-prefix-help": "インデックス付けされた物理的な場所からインデックスされたすべてのファイルは、検索結果が自動補完されます。 Web サーバーからファイルを取得できる場合に使用する必要があります。デフォルトでは、URL の自動補完は物理パスと同じ値に設定されています。",
+	"bs-insertlink-pref-filesystemmap-fs-prefix": "ファイルシステムの接頭辞"
 }

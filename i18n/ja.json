@@ -29,6 +29,7 @@
 	"bs-insertlink-internal-file-link-button-label": "ファイルを選択",
 	"bs-insertlink-external-file-switch-label": "ネットワーク共有パス (URI)",
 	"bs-insertlink-pref-filesystemmap": "外部ファイルの許可された場所",
+	"bs-insertlink-pref-filesystemmap-fs-prefix": "ファイルシステムの接頭辞",
 	"bs-insertlink-pref-filesystemmap-web-prefix": "Web アクセス可能なプレフィックス",
 	"bs-insertlink-pref-allowunmapped": "マップされていないリンクを許可する",
 	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "ストレージのパスです。例: (マウント済みドライブの場合) X:\\Documents",

@@ -4,7 +4,8 @@
 			"Lizalizaufa",
 			"Азат Хәлилов",
 			"Айбикә",
-			"З. ӘЙЛЕ"
+			"З. ӘЙЛЕ",
+			"Bashkorttan"
 		]
 	},
 	"bs-insertlink-desc": "Һылтанма индереү өсөн диалог тәҙрәһе",
@@ -12,7 +13,7 @@
 	"bs-insertlink": "Һылтанма ҡуйырға",
 	"bs-insertlink-pref-enable-java": "Java-апплеттар өҫтәргә",
 	"bs-insertlink-button-title": "Һылтанманы ҡуйырға/мөхәррирләргә",
-	"bs-insertlink-dialog-title": "Һылтанма ҡуйырға",
+	"bs-insertlink-dialog-title": "Һылтанма ҡуйыу",
 	"bs-insertlink-tab-wiki-page": "Вики-бит",
 	"bs-insertlink-tab-ext-link": "Тышҡы һылтанма",
 	"bs-insertlink-tab-email": "Электрон почта һылтанмаһы",

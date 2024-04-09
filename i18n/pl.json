@@ -5,12 +5,14 @@
 			"Matik7",
 			"Py64",
 			"Rail",
-			"Railfail536"
+			"Railfail536",
+			"WaldiSt"
 		]
 	},
 	"bs-insertlink-desc": "Okno dialogowe do wprowadzenia adresu",
 	"prefs-insertlink": "Wstaw link",
 	"bs-insertlink": "Wstaw link",
+	"bs-insertlink-pref-enable-java": "Włącz aplet Java",
 	"bs-insertlink-button-title": "Wstaw/edytuj link",
 	"bs-insertlink-dialog-title": "Wstaw link",
 	"bs-insertlink-tab-wiki-page": "Strona wiki",

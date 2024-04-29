@@ -7,17 +7,17 @@
 		]
 	},
 	"bs-insertlink-tab-ext-link": "Ulkoinen linkki",
-	"bs-insertlink-tab-email": "Sähköpostilinkki",
+	"bs-insertlink-tab-email": "S\u00e4hk\u00f6postilinkki",
 	"bs-insertlink-tab-file": "Linkki tiedostoon",
 	"bs-insertlink-label-page": "Sivu",
 	"bs-insertlink-label-link": "Linkki",
-	"bs-insertlink-label-mail": "Sähköpostiosoite",
+	"bs-insertlink-label-mail": "S\u00e4hk\u00f6postiosoite",
 	"bs-insertlink-label-description": "Kuvaus",
 	"bs-insertlink-label-file": "Tiedosto",
 	"bs-insertlink-label-searchfile": "Etsi...",
 	"bs-insertlink-select-a-namespace": "(Sivut)",
-	"bs-insertlink-empty-field-text": "Lisätäksesi linkin sinun on määriteltävä kohde.",
-	"prefs-insertlink": "Lisää linkki",
-	"bs-insertlink": "Lisää linkki",
-	"bs-insertlink-dialog-title": "Lisää linkki"
+	"bs-insertlink-empty-field-text": "Lis\u00e4t\u00e4ksesi linkin sinun on m\u00e4\u00e4ritelt\u00e4v\u00e4 kohde.",
+	"prefs-insertlink": "Lis\u00e4\u00e4 linkki",
+	"bs-insertlink": "Lis\u00e4\u00e4 linkki",
+	"bs-insertlink-dialog-title": "Lis\u00e4\u00e4 linkki"
 }

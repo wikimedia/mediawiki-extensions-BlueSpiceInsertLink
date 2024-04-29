@@ -1,18 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Умар"
+			"\u0423\u043c\u0430\u0440"
 		]
 	},
-	"bs-insertlink-dialog-title": "Чуйилла хьажорг",
-	"bs-insertlink-tab-wiki-page": "Вики агӀо",
-	"bs-insertlink-label-page": "АгӀо",
-	"bs-insertlink-label-mail": "Электронан поштан адрес",
-	"bs-insertlink-label-description": "Цуьнах лаьцна",
-	"bs-insertlink-label-file": "Файл",
-	"bs-insertlink-label-searchfile": "Лахар…",
-	"bs-insertlink-select-a-namespace": "(АгӀонаш)",
-	"bs-insertlink-label-link": "Хьажорг",
-	"bs-insertlink-select-a-page": "Ӏалашо харжа...",
-	"bs-insertlink-internal-file-link-button-label": "Файл харжа"
+	"bs-insertlink-dialog-title": "\u0427\u0443\u0439\u0438\u043b\u043b\u0430 \u0445\u044c\u0430\u0436\u043e\u0440\u0433",
+	"bs-insertlink-tab-wiki-page": "\u0412\u0438\u043a\u0438 \u0430\u0433\u04c0\u043e",
+	"bs-insertlink-label-page": "\u0410\u0433\u04c0\u043e",
+	"bs-insertlink-label-mail": "\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u0430\u043d \u043f\u043e\u0448\u0442\u0430\u043d \u0430\u0434\u0440\u0435\u0441",
+	"bs-insertlink-label-description": "\u0426\u0443\u044c\u043d\u0430\u0445 \u043b\u0430\u044c\u0446\u043d\u0430",
+	"bs-insertlink-label-file": "\u0424\u0430\u0439\u043b",
+	"bs-insertlink-label-searchfile": "\u041b\u0430\u0445\u0430\u0440\u2026",
+	"bs-insertlink-select-a-namespace": "(\u0410\u0433\u04c0\u043e\u043d\u0430\u0448)",
+	"bs-insertlink-label-link": "\u0425\u044c\u0430\u0436\u043e\u0440\u0433",
+	"bs-insertlink-select-a-page": "\u04c0\u0430\u043b\u0430\u0448\u043e \u0445\u0430\u0440\u0436\u0430...",
+	"bs-insertlink-internal-file-link-button-label": "\u0424\u0430\u0439\u043b \u0445\u0430\u0440\u0436\u0430"
 }

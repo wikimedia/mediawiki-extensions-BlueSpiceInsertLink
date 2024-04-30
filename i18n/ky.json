@@ -4,14 +4,14 @@
 			"Bosogo"
 		]
 	},
-	"bs-insertlink-label-searchfile": "\u0418\u0437\u0434\u04e9\u04e9...",
-	"bs-insertlink-label-page": "\u0411\u0430\u0440\u0430\u043a",
-	"bs-insertlink-select-a-namespace": "(\u0411\u0430\u0440\u0430\u043a\u0442\u0430\u0440)",
-	"bs-insertlink-label-link": "\u0428\u0438\u043b\u0442\u0435\u043c\u0435",
-	"bs-insertlink-label-file": "\u0424\u0430\u0439\u043b",
-	"bs-insertlink-tab-ext-link": "\u0422\u044b\u0448\u043a\u044b \u0448\u0438\u043b\u0442\u0435\u043c\u0435",
-	"bs-insertlink-label-description": "\u0421\u044b\u043f\u0430\u0442\u0442\u0430\u043c\u0430",
-	"prefs-insertlink": "\u0428\u0438\u043b\u0442\u0435\u043c\u0435 \u043a\u043e\u0448\u0443\u0443",
-	"bs-insertlink": "\u0428\u0438\u043b\u0442\u0435\u043c\u0435 \u043a\u043e\u0448\u0443\u0443",
-	"bs-insertlink-dialog-title": "\u0428\u0438\u043b\u0442\u0435\u043c\u0435 \u043a\u043e\u0448\u0443\u0443"
+	"bs-insertlink-label-searchfile": "Издөө...",
+	"bs-insertlink-label-page": "Барак",
+	"bs-insertlink-select-a-namespace": "(Барактар)",
+	"bs-insertlink-label-link": "Шилтеме",
+	"bs-insertlink-label-file": "Файл",
+	"bs-insertlink-tab-ext-link": "Тышкы шилтеме",
+	"bs-insertlink-label-description": "Сыпаттама",
+	"prefs-insertlink": "Шилтеме кошуу",
+	"bs-insertlink": "Шилтеме кошуу",
+	"bs-insertlink-dialog-title": "Шилтеме кошуу"
 }

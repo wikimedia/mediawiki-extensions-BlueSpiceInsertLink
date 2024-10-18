@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Cabal",
 			"ਗੁਰਪ੍ਰੀਤ ਹੁੰਦਲ"
 		]
 	},
-	"bs-insertlink-select-a-page": "ਟੀਚਾ ਚੁਣੋ ..."
+	"bs-insertlink-select-a-page": "ਟੀਚਾ ਚੁਣੋ ...",
+	"bs-insertlink-label-link": "ਕੜੀ"
 }

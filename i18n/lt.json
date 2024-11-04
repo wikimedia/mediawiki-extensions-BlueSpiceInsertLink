@@ -25,8 +25,8 @@
 	"bs-insertlink-select-a-page": "Pasirinkti tikslą ...",
 	"bs-insertlink-select-a-namespace": "(Puslapiai)",
 	"bs-insertlink-empty-field-text": "Kad įterptumėte nuoroda jums reikia nurodyti tikslą.",
-	"bs-insertlink-internal-file-link-button-label": "Pasirinkite failą",
 	"bs-insertlink-no-applet": "Nepavyko įkelti programėlės. Patikrinkite Java diegimą.",
+	"bs-insertlink-internal-file-link-button-label": "Pasirinkite failą",
 	"bs-insertlink-pref-filesystemmap": "Leidžiamos išorinių failų vietos",
 	"bs-insertlink-pref-filesystemmap-fs-prefix": "Failų sistemos priešdėlis"
 }

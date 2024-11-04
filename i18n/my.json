@@ -5,14 +5,14 @@
 			"Ninjastrikers"
 		]
 	},
-	"bs-insertlink-label-page": "စာမျက်နှာ",
-	"bs-insertlink-label-description": "ဖော်ပြချက်",
-	"bs-insertlink-label-file": "ဖိုင်",
-	"bs-insertlink-label-searchfile": "ရှာဖွေရန် ...",
-	"bs-insertlink-select-a-namespace": "(စာမျက်နှာများ)",
 	"bs-insertlink-tab-wiki-page": "ဝီကီ စာမျက်နှာ",
 	"bs-insertlink-tab-ext-link": "ပြင်ပ လင့်ခ်",
 	"bs-insertlink-tab-email": "အီးမေးလ်လင့်ခ်",
+	"bs-insertlink-label-page": "စာမျက်နှာ",
 	"bs-insertlink-label-link": "လင့်ခ်",
-	"bs-insertlink-label-mail": "အီးမေးလ် လိပ်စာ"
+	"bs-insertlink-label-mail": "အီးမေးလ် လိပ်စာ",
+	"bs-insertlink-label-description": "ဖော်ပြချက်",
+	"bs-insertlink-label-file": "ဖိုင်",
+	"bs-insertlink-label-searchfile": "ရှာဖွေရန် ...",
+	"bs-insertlink-select-a-namespace": "(စာမျက်နှာများ)"
 }

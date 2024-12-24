@@ -4,19 +4,6 @@
 			"Ajeje Brazorf"
 		]
 	},
-	"prefs-insertlink": "Nzirisci liami",
-	"bs-insertlink": "Nzirisci liami",
-	"bs-insertlink-button-title": "Nzirisci/cancia liami",
-	"bs-insertlink-dialog-title": "Nzirisci liami",
-	"bs-insertlink-tab-wiki-page": "Pàggina wiki",
-	"bs-insertlink-tab-ext-link": "Liami di fora",
-	"bs-insertlink-tab-email": "Liami email",
 	"bs-insertlink-tab-file": "Liami ô file",
-	"bs-insertlink-label-page": "Pàggina",
-	"bs-insertlink-label-link": "Liami",
-	"bs-insertlink-label-mail": "Nnirizzu e-mail",
-	"bs-insertlink-label-description": "Discrizzioni",
-	"bs-insertlink-label-file": "File",
-	"bs-insertlink-select-a-namespace": "(Pàggini)",
 	"bs-insertlink-internal-file-link-button-label": "Scegghi file"
 }

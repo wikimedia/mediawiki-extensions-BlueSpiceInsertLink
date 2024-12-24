@@ -6,18 +6,5 @@
 			"Silvonen"
 		]
 	},
-	"prefs-insertlink": "Lisää linkki",
-	"bs-insertlink": "Lisää linkki",
-	"bs-insertlink-dialog-title": "Lisää linkki",
-	"bs-insertlink-tab-ext-link": "Ulkoinen linkki",
-	"bs-insertlink-tab-email": "Sähköpostilinkki",
-	"bs-insertlink-tab-file": "Linkki tiedostoon",
-	"bs-insertlink-label-page": "Sivu",
-	"bs-insertlink-label-link": "Linkki",
-	"bs-insertlink-label-mail": "Sähköpostiosoite",
-	"bs-insertlink-label-description": "Kuvaus",
-	"bs-insertlink-label-file": "Tiedosto",
-	"bs-insertlink-label-searchfile": "Etsi...",
-	"bs-insertlink-select-a-namespace": "(Sivut)",
-	"bs-insertlink-empty-field-text": "Lisätäksesi linkin sinun on määriteltävä kohde."
+	"bs-insertlink-tab-file": "Linkki tiedostoon"
 }

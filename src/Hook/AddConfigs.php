@@ -3,7 +3,7 @@
 namespace BlueSpice\InsertLink\Hook;
 
 use MediaWiki\Config\ConfigFactory;
-use MediaWiki\Hook\BeforePageDisplayHook;
+use MediaWiki\Output\Hook\BeforePageDisplayHook;
 
 class AddConfigs implements BeforePageDisplayHook {
 

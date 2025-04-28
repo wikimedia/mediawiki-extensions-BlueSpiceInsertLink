@@ -13,7 +13,7 @@
 	"bs-insertlink-pref-filesystemmap-fs-prefix": "بادئة نظام الملفات",
 	"bs-insertlink-pref-filesystemmap-web-prefix": "بادئة الوصول إلى الويب",
 	"bs-insertlink-pref-allowunmapped": "السماح بالوصلات غير المعينة",
-	"bs-insertlink-pref-filesystemmap-help": "المواقع الخارجية للملفات التي تسمح بالربط. يتم إدخال هذه المواقع في أزواج مفتاح / قيمة.",
+	"bs-insertlink-pref-filesystemmap-help": "المواقع الخارجية للملفات التي تسمح بالربط. تُدخل هذه المواقع في أزواج مفتاح/قيمة.",
 	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "مسار التخزين. بالنسبة لمحركات الأقراص المُحمَّلة ، على سبيل المثال: X: \\ Documents",
-	"bs-insertlink-pref-filesystemmap-web-prefix-help": "تكون جميع الملفات المفهرسة من الموقع الفعلي المفهرس مسبوقة في نتائج البحث. يجب استخدامه إذا كانت الملفات متوفرة من خادم الويب. بشكل افتراضي ، يتم تعيين بادئة عنوان URL على نفس قيمة المسار الفعلي."
+	"bs-insertlink-pref-filesystemmap-web-prefix-help": "جميع الملفات المُفهرسة من الموقع الفعلي تُضاف إليها بادئة في نتائج البحث. يجب استخدامها إذا كانت الملفات متاحة من خادم ويب. افتراضيًا، تُضبط بادئة عنوان URL على نفس قيمة المسار الفعلي."
 }

@@ -17,7 +17,7 @@
 	"bs-insertlink-pref-filesystemmap-fs-prefix": "Bestandssysteemvoorvoegsel",
 	"bs-insertlink-pref-filesystemmap-web-prefix": "Voorvoegsel webtoegang",
 	"bs-insertlink-pref-allowunmapped": "Koppelingen naar onbekende locaties toestaan",
-	"bs-insertlink-pref-filesystemmap-help": "Externe locaties van bestanden waarnaar gekoppeld kan worden. Deze locaties worden ingevoerd als sleutel/waarde-paren.",
+	"bs-insertlink-pref-filesystemmap-help": "Externe locaties van bestanden waarnaar gekoppeld kan worden. Deze locaties worden ingevoerd als sleutel/waarde-paren",
 	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "Opslagpad. Voor aangekoppelde opslageenheden, bijvoorbeeld: X:\\Documenten",
-	"bs-insertlink-pref-filesystemmap-web-prefix-help": "Alle bestanden die vanaf de geïndexeerde fysieke locatie zijn geïndexeerd, krijgen in de zoekresultaten een voorvoegsel. Dat moet worden gebruikt als de bestanden toegankelijk zijn vanaf een webserver. Het URL-voorvoegsel is standaard ingesteld op dezelfde waarde als het fysieke pad."
+	"bs-insertlink-pref-filesystemmap-web-prefix-help": "Alle bestanden die vanaf de geïndexeerde fysieke locatie zijn geïndexeerd, krijgen in de zoekresultaten een voorvoegsel. Dat moet worden gebruikt als de bestanden toegankelijk zijn vanaf een webserver. Het URL-voorvoegsel is standaard ingesteld op dezelfde waarde als het fysieke pad"
 }

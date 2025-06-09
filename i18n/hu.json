@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Krisztina"
+		]
+	},
+	"bs-insertlink-desc": "Párbeszédpanel hivatkozás beírásához",
+	"bs-insertlink-tab-file": "Fájl linkje",
+	"bs-insertlink-internal-file-link-button-label": "Fájl kiválasztása",
+	"bs-insertlink-external-file-switch-label": "Hálózati megosztási útvonal (URI)",
+	"bs-insertlink-pref-filesystemmap": "Külső fájlok engedélyezett helye",
+	"bs-insertlink-pref-filesystemmap-fs-prefix": "Fájlrendszer előtag",
+	"bs-insertlink-pref-filesystemmap-web-prefix": "Weben elérhető előtag",
+	"bs-insertlink-pref-allowunmapped": "Nem leképezett hivatkozások engedélyezése",
+	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "Tárolási útvonal. Csatlakoztatott meghajtók esetén például: X:\\Dokumentumok"
+}

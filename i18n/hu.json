@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Krisztina"
+		]
+	},
+	"bs-insertlink-desc": "Párbeszédpanel hivatkozás beírásához",
+	"bs-insertlink-tab-file": "Fájl linkje",
+	"bs-insertlink-internal-file-link-button-label": "Fájl kiválasztása",
+	"bs-insertlink-external-file-switch-label": "Hálózati megosztási útvonal (URI)",
+	"bs-insertlink-pref-filesystemmap": "Külső fájlok engedélyezett helye",
+	"bs-insertlink-pref-filesystemmap-fs-prefix": "Fájlrendszer előtag",
+	"bs-insertlink-pref-filesystemmap-web-prefix": "Weben elérhető előtag",
+	"bs-insertlink-pref-allowunmapped": "Nem leképezett hivatkozások engedélyezése",
+	"bs-insertlink-pref-filesystemmap-help": "A kapcsolást lehetővé tevő fájlok külső helye. Ezeket a helyeket kulcs/érték párokban kell megadni.",
+	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "Tárolási útvonal. Csatlakoztatott meghajtók esetén például: X:\\Dokumentumok",
+	"bs-insertlink-pref-filesystemmap-web-prefix-help": "Az indexelt fizikai helyről indexelt összes fájl előtaggal van ellátva a keresési eredményekben. Akkor kell használni, ha a fájlok elérhetők egy webszerverről. Alapértelmezés szerint az URL előtagja megegyezik a fizikai elérési út értékével."
+}

@@ -4,5 +4,10 @@
 			"Умар"
 		]
 	},
-	"bs-insertlink-internal-file-link-button-label": "Файл харжа"
+	"bs-insertlink-desc": "Хьажорг чуйаккхаран диалог",
+	"bs-insertlink-tab-file": "Файлан тӀе хьажорг",
+	"bs-insertlink-internal-file-link-button-label": "Файл харжа",
+	"bs-insertlink-external-file-switch-label": "Машан декъаран некъ (URI)",
+	"bs-insertlink-pref-filesystemmap-fs-prefix": "Файлан системин дешхьалхе",
+	"bs-insertlink-pref-allowunmapped": "Магайе гойтуш йоцу хьажоргаш"
 }

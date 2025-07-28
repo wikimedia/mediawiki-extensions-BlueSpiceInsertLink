@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Elisardojm"
+			"Elisardojm",
+			"Toliño"
 		]
 	},
 	"bs-insertlink-desc": "Caixa de diálogo para inserir unha ligazón",
@@ -13,7 +14,7 @@
 	"bs-insertlink-tab-wiki-page": "Páxina wiki",
 	"bs-insertlink-tab-ext-link": "Ligazón externa",
 	"bs-insertlink-tab-email": "Ligazón a correo",
-	"bs-insertlink-tab-file": "Ligazón a ficheiro",
+	"bs-insertlink-tab-file": "Ligazón ao ficheiro",
 	"bs-insertlink-label-page": "Páxina",
 	"bs-insertlink-label-link": "Ligazón",
 	"bs-insertlink-label-mail": "Enderezo de correo electrónico",
@@ -23,5 +24,12 @@
 	"bs-insertlink-select-a-page": "Escoller destino…",
 	"bs-insertlink-select-a-namespace": "(Páxinas)",
 	"bs-insertlink-empty-field-text": "Para inserir unha ligazón é necesario definir o destino.",
-	"bs-insertlink-no-applet": "O applet non pode cargarse. Revise a súa instalación Java."
+	"bs-insertlink-no-applet": "O applet non pode cargarse. Revise a súa instalación Java.",
+	"bs-insertlink-internal-file-link-button-label": "Elixir un ficheiro",
+	"bs-insertlink-external-file-switch-label": "Ruta de compartición de rede (URI)",
+	"bs-insertlink-pref-filesystemmap": "Localizacións permitidas para ficheiros externos",
+	"bs-insertlink-pref-filesystemmap-fs-prefix": "Prefixo do sistema de ficheiros",
+	"bs-insertlink-pref-filesystemmap-web-prefix": "Prefixo accesible pola web",
+	"bs-insertlink-pref-allowunmapped": "Permitir as ligazóns non mapeadas",
+	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "Ruta de almacenamento. Para as unidades montadas, por exemplo: X:\\Documentos"
 }

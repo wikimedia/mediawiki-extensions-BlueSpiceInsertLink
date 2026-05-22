@@ -3,6 +3,7 @@
 		"authors": [
 			"Shirayuki",
 			"Sujiniku",
+			"Tensama0415",
 			"もなー(偽物)",
 			"翻訳者a"
 		]
@@ -15,7 +16,7 @@
 	"bs-insertlink-pref-filesystemmap-fs-prefix": "ファイルシステムの接頭辞",
 	"bs-insertlink-pref-filesystemmap-web-prefix": "Web アクセス可能な接頭辞",
 	"bs-insertlink-pref-allowunmapped": "マップされていないリンクを許可する",
-	"bs-insertlink-pref-filesystemmap-help": "リンクを許可するファイルの外部の場所。これらの場所はキーと値のペアで入力されます。",
+	"bs-insertlink-pref-filesystemmap-help": "リンクを許可するファイルの外部の場所。これらの場所はキーと値のペアで入力されます",
 	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "ストレージのパスです。例: (マウント済みドライブの場合) X:\\Documents",
 	"bs-insertlink-pref-filesystemmap-web-prefix-help": "インデックス付けされた物理パスからのすべてのファイルは、検索結果で接頭辞が付与されます。ファイルが Web サーバー経由で利用可能な場合に使用してください。既定では、URL 接頭辞は物理パスと同じ値に設定されます。"
 }

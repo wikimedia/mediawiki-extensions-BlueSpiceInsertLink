@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"شاه زمان پټان"
+		]
+	},
+	"bs-insertlink-desc": "د تړوني دننه‌کولو لپاره د خبرو اترو بکس",
+	"bs-insertlink-tab-file": "دوتنې ته تړونی ورکول",
+	"bs-insertlink-internal-file-link-button-label": "دوتنه راخيستل",
+	"bs-insertlink-external-file-switch-label": "شبکې شريکولو لار (يوارآی)",
+	"bs-insertlink-pref-filesystemmap": "باندنيو دوتنو لپاره اجازه ورکړل شوي ځايونه",
+	"bs-insertlink-pref-filesystemmap-fs-prefix": "د دوتنې‌غونډال مختاړی",
+	"bs-insertlink-pref-filesystemmap-web-prefix": "د وېب لاسرسي‌وړ مختاړی",
+	"bs-insertlink-pref-allowunmapped": "نانخشه شوي تړونو ته اجازه ورکول",
+	"bs-insertlink-pref-filesystemmap-help": "د دوتنو باندني ځايونه چې تړوني ورکولو ته اجازه ورکوي. دا ځايونه د کونجي/ارزښت جوړو کې دننه‌شوې دي",
+	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "د زخيره کولو لار. د نصب شوي چلځي لپاره، د بېلگې په توگه: X:\\Documents"
+}

@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wizzard"
+		]
+	},
+	"bs-insertlink-desc": "Dialógové okno na zadanie odkazu",
+	"bs-insertlink-tab-file": "Odkaz na súbor",
+	"bs-insertlink-internal-file-link-button-label": "Vybrať súbor",
+	"bs-insertlink-external-file-switch-label": "Cesta k sieťovému zdieľaniu (URI)",
+	"bs-insertlink-pref-filesystemmap": "Povolené umiestnenia externých súborov",
+	"bs-insertlink-pref-filesystemmap-fs-prefix": "Predpona súborového systému",
+	"bs-insertlink-pref-filesystemmap-web-prefix": "Predpona prístupná z webu",
+	"bs-insertlink-pref-allowunmapped": "Povoliť nenamapované odkazy",
+	"bs-insertlink-pref-filesystemmap-help": "Externé umiestnenia súborov, na ktoré je možné odkazovať. Tieto umiestnenia sa zadávajú ako dvojice kľúč/hodnota",
+	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "Cesta k úložisku. Pre pripojené jednotky napríklad: X:\\\\Documents",
+	"bs-insertlink-pref-filesystemmap-web-prefix-help": "Všetky súbory indexované z indexovaného fyzického umiestnenia dostanú vo výsledkoch vyhľadávania túto predponu. Použite ju, ak sú súbory dostupné z webového servera. Predvolene je predpona URL rovnaká ako fyzická cesta"
+}

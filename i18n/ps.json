@@ -14,5 +14,6 @@
 	"bs-insertlink-pref-filesystemmap-web-prefix": "د وېب لاسرسي‌وړ مختاړی",
 	"bs-insertlink-pref-allowunmapped": "نانخشه شوي تړونو ته اجازه ورکول",
 	"bs-insertlink-pref-filesystemmap-help": "د دوتنو باندني ځايونه چې تړوني ورکولو ته اجازه ورکوي. دا ځايونه د کونجي/ارزښت جوړو کې دننه‌شوې دي",
-	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "د زخيره کولو لار. د نصب شوي چلځي لپاره، د بېلگې په توگه: X:\\Documents"
+	"bs-insertlink-pref-filesystemmap-fs-prefix-help": "د زخيره کولو لار. د نصب شوي چلځي لپاره، د بېلگې په توگه: X:\\Documents",
+	"bs-insertlink-pref-filesystemmap-web-prefix-help": "ټولې هغه دوتنې چې ليکلړ شوې دي له فزيکي موقعيت څخه د پلټلو پايلو کې د مختاړی په توگه ليکلړ شوې دي. که دوتنې وېب پالنگر کې شتون ولري، بايد وکارول شي. په تلواله ډول د وېبتړ مختاړی د فیزیکي لارې په څېر ورته ارزښت ته اوڼل شوې دي"
 }
